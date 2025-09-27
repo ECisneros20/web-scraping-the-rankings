@@ -1,10 +1,8 @@
 import configparser
 import os
-from enum import Enum, unique
 
 
-@unique
-class Constantes(Enum):
+class Constantes:
     """Una clase que contiene constantes base del sistema, así como la
     ruta principal y de los subdirectorios del proyecto para desarrollo
     y producción.
@@ -23,32 +21,33 @@ class Constantes(Enum):
     config = configparser.ConfigParser()
     config.read(f"{ruta_principal}/config.ini")
 
-    # Detalles de web scraping
+    # (Soporte) Detalles de web scraping
     lk = config.get("links", "base_url", fallback="")
-    wr = config.get("links", "path_world_ranking", fallback="")
-    cs = config.get("links", "path_computer_science", fallback="")
-    en = config.get("links", "path_engineering", fallback="")
-    base = config.get("links", "query_params_base", fallback="")
-    scores = config.get("links", "query_params_scores", fallback="")
-    stats = config.get("links", "query_params_stats", fallback="")
-    cant_univ = config.getint("links", "cant_univ", fallback=100)
-    # Construcción de links para web scraping
-    lk_wr_scores = f"{lk}/{wr}{base}/{scores}"
-    lk_cs_scores = f"{lk}/{cs}{base}/{scores}"
-    lk_en_scores = f"{lk}/{en}{base}/{scores}"
-    lk_wr_stats = f"{lk}/{wr}{base}/{stats}"
-    lk_cs_stats = f"{lk}/{cs}{base}/{stats}"
-    lk_en_stats = f"{lk}/{en}{base}/{stats}"
+    wr = config.get("links", "path_wr", fallback="")
+    cs = config.get("links", "path_cs", fallback="")
+    en = config.get("links", "path_en", fallback="")
+    base = config.get("subject-params", "base", fallback="")
+    scrs = config.get("subject-params", "scrs", fallback="")
+    stts = config.get("subject-params", "stts", fallback="")
+    # (Soporte) Campos para scores, detalles y stats
+    scrs_titles_str = config.get("scrs", "scrs_titles", fallback="")
+    scrs_ws_wr_str = config.get("scrs", "scrs_ws_wr", fallback="")
+    scrs_ws_su_str = config.get("scrs", "scrs_ws_su", fallback="")
+    stts_titles_str = config.get("stts", "stts_titles", fallback="")
+    stts_ws_wr_str = config.get("stts", "stts_ws_wr", fallback="")
+    stts_ws_su_str = config.get("stts", "stts_ws_su", fallback="")
 
-    # Campos para scores, detalles y stats
-    scores_titles_str = config.get("scores", "scores_titles", fallback="")
-    scores_ws_str = config.get("scores", "scores_ws", fallback="")
-    details_titles_str = config.get("details", "details_titles", fallback="")
-    stats_titles_str = config.get("stats", "stats_titles", fallback="")
-    stats_ws_str = config.get("stats", "stats_ws", fallback="")
+    # Construcción de links para web scraping
+    lk_wr = f"{lk}/{wr}"
+    lk_cs_scrs = f"{lk}/{cs}{base}/{scrs}"
+    lk_en_scrs = f"{lk}/{en}{base}/{scrs}"
+    lk_cs_stts = f"{lk}/{cs}{base}/{stts}"
+    lk_en_stts = f"{lk}/{en}{base}/{stts}"
     # Construcción de columnas y campos de extracción
-    scores_titles = [s.strip() for s in scores_titles_str.split(",") if s.strip()]
-    scores_ws = [s.strip() for s in scores_ws_str.split(",") if s.strip()]
-    details_titles = [s.strip() for s in details_titles_str.split(",") if s.strip()]
-    stats_titles = [s.strip() for s in stats_titles_str.split(",") if s.strip()]
-    stats_ws = [s.strip() for s in stats_ws_str.split(",") if s.strip()]
+    scores_titles = [s.strip() for s in scrs_titles_str.split(",") if s.strip()]
+    scores_ws_wr = [s.strip() for s in scrs_ws_wr_str.split(",") if s.strip()]
+    scores_ws_su = [s.strip() for s in scrs_ws_su_str.split(",") if s.strip()]
+    # details_titles = [s.strip() for s in details_titles_str.split(",") if s.strip()]
+    stats_titles = [s.strip() for s in stts_titles_str.split(",") if s.strip()]
+    stats_ws_wr = [s.strip() for s in stts_ws_wr_str.split(",") if s.strip()]
+    stats_ws_su = [s.strip() for s in stts_ws_su_str.split(",") if s.strip()]
