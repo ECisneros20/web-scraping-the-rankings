@@ -57,3 +57,4 @@ numpy==2.2.1
 pandas==2.2.3
 pyinstaller==6.11.1
 selenium==4.27.1
+tqdm==4.67.1

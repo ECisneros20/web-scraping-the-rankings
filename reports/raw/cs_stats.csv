@@ -1,0 +1,1123 @@
+rank,name,country,number_students,student_staff_ratio,intl_students,female_male_ratio
+1,University of Oxford,United Kingdom,"22,095",10.8,43%,51 : 49
+2,University of Cambridge,United Kingdom,"20,980",11.5,38%,49 : 51
+3,Massachusetts Institute of Technology,United States,"11,836",8.0,33%,42 : 58
+4,ETH Zurich,Switzerland,"22,883",15.8,44%,33 : 67
+5,Stanford University,United States,"16,963",5.9,23%,47 : 53
+=6,Carnegie Mellon University,United States,"15,312",13.1,46%,44 : 56
+=6,Princeton University,United States,"8,378",7.8,23%,47 : 53
+=8,Imperial College London,United Kingdom,"21,000",12.1,60%,43 : 57
+=8,"University of California, Berkeley",United States,"42,423",18.7,25%,52 : 48
+10,Harvard University,United States,"22,584",10.0,25%,52 : 48
+11,National University of Singapore,Singapore,"34,388",21.0,26%,49 : 51
+12,Peking University,China,"34,981",11.5,15%,n/a
+13,Tsinghua University,China,"38,289",11.0,9%,n/a
+14,Technical University of Munich,Germany,"34,907",41.8,43%,35 : 65
+15,California Institute of Technology,United States,"2,397",6.4,32%,38 : 62
+16,Cornell University,United States,"25,528",10.5,26%,52 : 48
+17,"University of California, Los Angeles",United States,"44,237",9.9,15%,56 : 44
+18,University of Washington,United States,"49,647",10.0,16%,57 : 43
+19,"Nanyang Technological University, Singapore",Singapore,"26,044",17.1,29%,48 : 52
+20,École Polytechnique Fédérale de Lausanne,Switzerland,"12,432",12.5,64%,30 : 70
+21,University of Illinois at Urbana-Champaign,United States,"50,655",19.7,25%,51 : 49
+22,Georgia Institute of Technology,United States,"34,116",31.4,31%,34 : 66
+23,University of Toronto,Canada,"80,107",25.2,29%,56 : 44
+24,Yale University,United States,"14,401",6.2,22%,53 : 47
+25,Johns Hopkins University,United States,"21,735",5.8,32%,55 : 45
+26,Columbia University,United States,"30,541",5.9,40%,n/a
+27,New York University,United States,"49,423",7.4,45%,59 : 41
+28,The Hong Kong University of Science and Technology,Hong Kong,"9,534",16.5,44%,n/a
+29,University of Edinburgh,United Kingdom,"37,035",12.2,49%,62 : 38
+30,The Chinese University of Hong Kong,Hong Kong,"18,210",18.6,27%,n/a
+31,University of Texas at Austin,United States,"50,047",16.6,9%,55 : 45
+32,Zhejiang University,China,"50,206",12.1,15%,n/a
+33,Shanghai Jiao Tong University,China,"40,159",12.4,9%,36 : 64
+34,UCL,United Kingdom,"41,935",11.1,61%,60 : 40
+35,"University of California, San Diego",United States,"39,993",11.0,21%,49 : 51
+36,University of Pennsylvania,United States,"22,539",6.8,24%,55 : 45
+37,The University of Tokyo,Japan,"26,438",10.4,17%,n/a
+38,Paris Sciences et Lettres – PSL Research University Paris,France,"16,016",14.9,21%,50 : 50
+39,Korea Advanced Institute of Science and Technology (KAIST),South Korea,"10,156",11.2,11%,22 : 78
+40,The University of Chicago,United States,"16,373",6.0,38%,46 : 54
+41,University of Michigan-Ann Arbor,United States,"47,787",8.5,18%,52 : 48
+42,Institut Polytechnique de Paris,France,"6,062",6.7,43%,24 : 76
+43,University of Waterloo,Canada,"35,370",23.1,22%,47 : 53
+44,KU Leuven,Belgium,"50,447",37.5,20%,52 : 48
+45,Delft University of Technology,Netherlands,"20,943",14.5,37%,32 : 68
+46,Université de Montréal,Canada,"39,359",20.2,23%,n/a
+47,Purdue University West Lafayette,United States,"41,612",18.7,20%,42 : 58
+48,University of Massachusetts,United States,"62,044",12.8,14%,51 : 49
+49,Seoul National University,South Korea,"25,644",14.2,16%,n/a
+50,University of Melbourne,Australia,"50,303",23.6,48%,58 : 42
+51,University of British Columbia,Canada,"59,931",19.3,34%,56 : 44
+52,University of Science and Technology of China,China,"20,888",8.0,5%,n/a
+53,University of Hong Kong,Hong Kong,"18,010",18.4,45%,55 : 45
+54,Université Paris-Saclay,France,"32,679",15.0,24%,51 : 49
+55,LMU Munich,Germany,"34,235",33.0,18%,61 : 39
+56,"University of Maryland, College Park",United States,"33,914",16.9,9%,50 : 50
+57,City University of Hong Kong,Hong Kong,"8,592",12.5,72%,54 : 46
+57,Duke University,United States,"17,180",4.3,22%,54 : 46
+58,Fudan University,China,"38,462",12.3,9%,52 : 48
+60,RWTH Aachen University,Germany,"29,050",37.1,31%,35 : 65
+61,Monash University,Australia,"54,821",32.6,37%,55 : 45
+62,"University of California, Santa Barbara",United States,"25,442",27.6,17%,55 : 45
+63,University of Wisconsin-Madison,United States,"43,549",10.6,14%,n/a
+64,University of Southern California,United States,"44,180",14.2,27%,54 : 46
+65,Technical University of Berlin,Germany,"20,260",48.2,28%,36 : 64
+66,Nanjing University,China,"33,608",14.6,10%,59 : 41
+67,Kyoto University,Japan,"21,707",9.0,11%,25 : 75
+68,University of Manchester,United Kingdom,"42,160",15.1,46%,56 : 44
+=69,KTH Royal Institute of Technology,Sweden,"13,113",15.6,26%,34 : 66
+=69,The University of Sydney,Australia,"53,079",27.5,51%,57 : 43
+71,Brown University,United States,"10,476",10.3,20%,n/a
+72,University of Amsterdam,Netherlands,"29,759",12.8,39%,60 : 40
+73,Technical University of Darmstadt,Germany,"14,153",33.1,24%,33 : 67
+74,The Hong Kong Polytechnic University,Hong Kong,"20,387",22.3,35%,50 : 50
+75,"University of California, Irvine",United States,"35,218",15.5,25%,54 : 46
+76,McGill University,Canada,"30,051",11.3,30%,61 : 39
+77,Sorbonne University,France,"40,340",14.1,22%,61 : 39
+78,Karlsruhe Institute of Technology,Germany,"20,875",41.3,24%,29 : 71
+79,TU Wien,Austria,"10,606",17.6,33%,32 : 68
+80,University of Alberta,Canada,"34,169",23.9,27%,n/a
+81,Australian National University,Australia,"17,100",14.8,48%,53 : 47
+82,Eindhoven University of Technology,Netherlands,"10,686",21.0,31%,n/a
+83,University of Technology Sydney,Australia,"28,533",36.6,24%,51 : 49
+84,UNSW Sydney,Australia,"46,165",35.6,41%,46 : 54
+85,Northwestern University,United States,"19,922",8.0,20%,53 : 47
+=86,Sungkyunkwan University (SKKU),South Korea,"20,416",17.0,21%,48 : 52
+=86,University of Tübingen,Germany,"21,337",27.8,15%,59 : 41
+=88,Aalto University,Finland,"14,298",20.3,25%,39 : 61
+=88,Politecnico di Milano,Italy,"39,532",24.4,20%,n/a
+90,Tokyo Institute of Technology,Japan,"9,908",9.9,16%,16 : 84
+91,King’s College London,United Kingdom,"35,360",14.0,53%,64 : 36
+92,University of Adelaide,Australia,"22,577",31.4,30%,50 : 50
+93,Michigan State University,United States,"44,672",16.1,10%,53 : 47
+94,University of Bologna,Italy,"76,955",24.2,14%,57 : 43
+95,University of Bonn,Germany,"25,027",38.5,15%,57 : 43
+96,Indian Institute of Science,India,"4,648",9.8,1%,26 : 74
+96,Korea University,South Korea,"21,741",17.3,38%,n/a
+97,Yonsei University (Seoul campus),South Korea,"19,235",14.4,12%,50 : 50
+=98,Aarhus University,Denmark,"25,966",12.8,15%,56 : 44
+=98,Harbin Institute of Technology,China,"31,224",10.6,4%,n/a
+100,"Northeastern University, US",United States,"27,229",15.4,37%,51 : 49
+101–125,Bauman Moscow State Technical University,Russian Federation,"15,858",6.7,19%,44 : 56
+101–125,Boston University,United States,"28,939",11.7,32%,58 : 42
+101–125,National Taiwan University (NTU),Taiwan,"25,973",13.3,15%,42 : 58
+101–125,Penn State (Main campus),United States,"47,253",14.6,15%,47 : 53
+101–125,Qatar University,Qatar,"9,701",8.5,36%,n/a
+101–125,Rice University,United States,"7,994",10.5,30%,43 : 57
+101–125,Sapienza University of Rome,Italy,"64,504",27.6,7%,61 : 39
+101–125,Stony Brook University,United States,"25,528",10.3,18%,54 : 46
+101–125,Technical University of Denmark,Denmark,"10,492",8.0,30%,34 : 66
+101–125,Technion Israel Institute of Technology,Israel,"15,267",22.1,13%,40 : 60
+101–125,Tel Aviv University,Israel,"24,033",22.8,7%,58 : 42
+101–125,Texas A&M University,United States,"66,907",21.8,8%,48 : 52
+101–125,The University of Queensland,Australia,"41,249",37.6,42%,55 : 45
+101–125,Tohoku University,Japan,"17,218",12.3,12%,28 : 72
+101–125,Universität Heidelberg,Germany,"19,632",13.3,21%,55 : 45
+101–125,University College Dublin,Ireland,"24,470",21.2,30%,n/a
+101–125,University of Bristol,United Kingdom,"28,730",14.5,33%,55 : 45
+101–125,"University of California, Davis",United States,"38,873",13.9,17%,59 : 41
+101–125,University of Electronic Science and Technology of China,China,"38,924",16.4,2%,27 : 73
+101–125,University of Freiburg,Germany,"20,268",36.9,18%,54 : 46
+101–125,University of North Carolina at Chapel Hill,United States,"35,049",8.7,9%,60 : 40
+101–125,University of Warwick,United Kingdom,"25,490",14.2,45%,50 : 50
+101–125,Virginia Polytechnic Institute and State University,United States,"37,225",18.5,13%,43 : 57
+101–125,Wuhan University,China,"49,929",13.8,6%,n/a
+126–150,Beihang University,China,"33,486",12.8,4%,n/a
+126–150,Chalmers University of Technology,Sweden,"10,083",11.1,17%,33 : 67
+126–150,Huazhong University of Science and Technology,China,"58,194",14.8,4%,n/a
+126–150,King Fahd University of Petroleum and Minerals,Saudi Arabia,"6,222",7.8,25%,18 : 82
+126–150,Kyung Hee University,South Korea,"20,451",17.6,30%,54 : 46
+126–150,Lebanese American University,Lebanon,"7,451",12.6,15%,52 : 48
+126–150,Linköping University,Sweden,"14,995",14.8,18%,54 : 46
+126–150,Macquarie University,Australia,"28,373",50.0,21%,n/a
+126–150,Pohang University of Science and Technology (POSTECH),South Korea,"3,245",10.5,8%,n/a
+126–150,Queen Mary University of London,United Kingdom,"25,110",15.7,47%,54 : 46
+126–150,Ruhr University Bochum,Germany,"31,388",18.8,19%,49 : 51
+126–150,Simon Fraser University,Canada,"27,262",30.5,31%,54 : 46
+126–150,"University of California, Riverside",United States,"25,347",19.7,14%,52 : 48
+126–150,University of Copenhagen,Denmark,"30,962",4.2,14%,63 : 37
+126–150,University of Erlangen-Nuremberg,Germany,"28,219",33.9,15%,51 : 49
+126–150,University of Groningen,Netherlands,"32,845",29.1,30%,54 : 46
+126–150,University of Illinois Chicago,United States,"28,912",11.4,20%,55 : 45
+126–150,University of Macau,Macao,"11,573",19.2,46%,54 : 46
+126–150,University of Notre Dame,United States,"12,860",10.9,13%,47 : 53
+126–150,University of Oslo,Norway,"19,971",11.7,17%,63 : 37
+126–150,University of Oulu,Finland,"10,857",20.7,8%,55 : 45
+126–150,University of Rochester,United States,"10,470",8.3,37%,51 : 49
+126–150,University of Stuttgart,Germany,"14,410",25.1,21%,35 : 65
+126–150,University of Surrey,United Kingdom,"13,520",14.4,33%,54 : 46
+126–150,University of Vienna,Austria,"30,739",37.0,32%,65 : 35
+126–150,University of Virginia (Main campus),United States,"26,228",9.0,12%,54 : 46
+151–175,Deakin University,Australia,"36,438",33.0,19%,60 : 40
+151–175,Free University of Berlin,Germany,"24,727",42.5,22%,63 : 37
+151–175,Hong Kong Baptist University,Hong Kong,"7,218",11.9,54%,64 : 36
+151–175,Lomonosov Moscow State University,Russian Federation,"33,056",9.6,37%,49 : 51
+151–175,Macau University of Science and Technology,Macao,"17,047",44.6,93%,57 : 43
+151–175,North Carolina State University,United States,"32,151",16.4,12%,50 : 50
+151–175,Ohio State University (Main campus),United States,"55,115",10.5,12%,52 : 48
+151–175,The University of Osaka,Japan,"22,186",10.4,11%,32 : 68
+151–175,Prince Mohammad Bin Fahd University,Saudi Arabia,"2,462",10.9,17%,47 : 53
+151–175,Radboud University Nijmegen,Netherlands,"23,582",17.5,13%,58 : 42
+151–175,Sharif University of Technology,Iran,"9,491",21.8,1%,25 : 75
+151–175,Swinburne University of Technology,Australia,"13,896",25.8,31%,43 : 57
+151–175,TU Dresden,Germany,"21,294",19.8,15%,49 : 51
+151–175,University at Buffalo,United States,"27,530",17.5,15%,46 : 54
+151–175,University of Auckland,New Zealand,"34,626",24.4,31%,56 : 44
+151–175,University of Colorado Boulder,United States,"36,067",16.7,9%,46 : 54
+151–175,University of Florida,United States,"47,534",15.9,10%,56 : 44
+151–175,University of Glasgow,United Kingdom,"36,240",15.1,46%,59 : 41
+151–175,University of Luxembourg,Luxembourg,"5,860",22.1,52%,54 : 46
+151–175,University of Sheffield,United Kingdom,"28,100",14.9,41%,53 : 47
+151–175,University of Southampton,United Kingdom,"23,135",14.7,43%,53 : 47
+151–175,University of Twente,Netherlands,"8,742",11.6,41%,37 : 63
+151–175,University of Würzburg,Germany,"21,257",37.7,10%,62 : 38
+151–175,Vrije Universiteit Amsterdam,Netherlands,"31,761",17.5,20%,57 : 43
+176–200,Aalborg University,Denmark,"16,871",14.4,13%,n/a
+176–200,Arizona State University (Tempe),United States,"50,855",19.8,15%,46 : 54
+176–200,Beijing Institute of Technology,China,"32,882",12.8,9%,n/a
+176–200,Graz University of Technology,Austria,"6,627",8.3,25%,26 : 74
+176–200,Johannes Kepler University of Linz,Austria,"7,352",22.0,18%,50 : 50
+176–200,Khalifa University,United Arab Emirates,"3,887",11.5,27%,58 : 42
+176–200,King Saud University,Saudi Arabia,"46,570",11.5,9%,45 : 55
+176–200,Northwestern Polytechnical University,China,"36,448",13.8,4%,24 : 76
+176–200,Norwegian University of Science and Technology,Norway,"37,923",14.8,9%,50 : 50
+176–200,Queensland University of Technology,Australia,"32,490",35.9,14%,54 : 46
+176–200,Rutgers University–New Brunswick,United States,"46,848",11.2,16%,53 : 47
+176–200,Sejong University,South Korea,"12,718",20.3,15%,49 : 51
+176–200,Southern University of Science and Technology (SUSTech),China,"7,350",9.1,1%,n/a
+176–200,Stevens Institute of Technology,United States,"7,281",20.7,34%,29 : 71
+176–200,Sun Yat-sen University,China,"63,317",15.1,5%,47 : 53
+176–200,Tianjin University,China,"27,081",8.9,15%,n/a
+176–200,Trinity College Dublin,Ireland,"19,659",23.2,39%,62 : 38
+176–200,Université Grenoble Alpes,France,"51,333",18.5,17%,53 : 47
+176–200,University of Birmingham,United Kingdom,"32,590",14.8,32%,57 : 43
+176–200,University of Helsinki,Finland,"23,822",16.5,6%,65 : 35
+176–200,University of Liverpool,United Kingdom,"25,735",13.8,30%,55 : 45
+176–200,University of Mannheim,Germany,"7,505",48.1,17%,n/a
+176–200,University of Trento,Italy,"14,213",17.6,9%,52 : 48
+176–200,University of Warsaw,Poland,"33,322",10.7,10%,61 : 39
+176–200,Vanderbilt University,United States,"12,863",3.8,18%,55 : 45
+201–250,Al Ain University,United Arab Emirates,"2,546",12.1,61%,52 : 48
+201–250,"Asia University, Taiwan",Taiwan,"10,913",30.9,4%,63 : 37
+201–250,Brunel University of London,United Kingdom,"14,630",18.3,46%,45 : 55
+201–250,Cardiff University,United Kingdom,"28,930",14.6,27%,59 : 41
+201–250,Case Western Reserve University,United States,"11,334",9.1,27%,51 : 49
+201–250,École Normale Supérieure de Lyon,France,"2,063",8.1,10%,47 : 53
+201–250,Griffith University,Australia,"30,328",26.3,17%,60 : 40
+201–250,Humboldt University of Berlin,Germany,"34,916",58.0,18%,n/a
+201–250,Indiana University,United States,"66,622",12.5,12%,54 : 46
+201–250,Iowa State University,United States,"27,342",16.9,8%,46 : 54
+201–250,King Abdulaziz University,Saudi Arabia,"59,539",13.0,4%,56 : 44
+201–250,Lancaster University,United Kingdom,"15,280",13.8,36%,51 : 49
+201–250,Loughborough University,United Kingdom,"16,420",14.3,25%,40 : 60
+201–250,Louisiana State University,United States,"32,512",20.6,4%,56 : 44
+201–250,Moscow Institute of Physics and Technology (MIPT),Russian Federation,"6,190",11.9,22%,n/a
+201–250,Nagoya University,Japan,"15,440",13.5,12%,30 : 70
+201–250,National Tsing Hua University,Taiwan,"14,408",21.1,13%,41 : 59
+201–250,National Yang Ming Chiao Tung University (NYCU Taiwan),Taiwan,"17,736",15.4,8%,36 : 64
+201–250,Newcastle University,United Kingdom,"24,885",14.4,26%,53 : 47
+201–250,Paderborn University,Germany,"15,728",51.3,13%,50 : 50
+201–250,RMIT University,Australia,"32,149",23.8,35%,49 : 51
+201–250,Sant’Anna School of Advanced Studies – Pisa,Italy,838,7.4,23%,40 : 60
+201–250,Shenzhen University,China,"35,576",13.9,1%,49 : 51
+201–250,Swansea University,United Kingdom,"18,360",16.7,23%,48 : 52
+201–250,Tongji University,China,"31,767",11.3,20%,41 : 59
+201–250,Université Catholique de Louvain,Belgium,"27,440",39.9,20%,55 : 45
+201–250,Université du Québec,Canada,"50,418",17.4,12%,57 : 43
+201–250,Universiti Sains Malaysia,Malaysia,"25,623",12.3,34%,63 : 37
+201–250,Universiti Teknologi Petronas,Malaysia,"4,389",13.4,12%,37 : 63
+201–250,University of Basel,Switzerland,"8,527",10.2,33%,57 : 43
+201–250,"University of California, Santa Cruz",United States,"19,782",24.1,10%,46 : 54
+201–250,University of Central Florida,United States,"62,862",38.1,5%,57 : 43
+201–250,University of Essex,United Kingdom,"14,915",14.4,43%,54 : 46
+201–250,University of Klagenfurt,Austria,"3,458",9.6,32%,64 : 36
+201–250,University of Leeds,United Kingdom,"35,710",15.1,38%,59 : 41
+201–250,University of Leicester,United Kingdom,"14,825",14.8,38%,52 : 48
+201–250,University of Malaya,Malaysia,"17,991",9.1,26%,61 : 39
+201–250,University of Minnesota,United States,"58,835",12.0,9%,55 : 45
+201–250,University of Nottingham,United Kingdom,"35,030",16.1,29%,55 : 45
+201–250,University of Ottawa,Canada,"40,289",28.4,28%,56 : 44
+201–250,University of Padua,Italy,"48,458",29.0,9%,57 : 43
+201–250,University of Sharjah,United Arab Emirates,"12,484",17.9,49%,67 : 33
+201–250,University of South Australia,Australia,"21,490",27.6,18%,60 : 40
+201–250,University of Tehran,Iran,"55,389",27.8,2%,46 : 54
+201–250,University of Victoria,Canada,"17,573",24.9,19%,57 : 43
+201–250,University of York,United Kingdom,"20,135",15.3,31%,57 : 43
+201–250,Washington University in St Louis,United States,"15,303",7.9,27%,52 : 48
+201–250,Xiamen University,China,"46,212",15.4,2%,n/a
+201–250,Xi’an Jiaotong University,China,"53,183",15.9,6%,35 : 65
+201–250,Xidian University,China,"38,844",14.6,1%,25 : 75
+201–250,York University,Canada,"42,331",27.8,28%,55 : 45
+251–300,American University of the Middle East,Kuwait,"5,049",12.4,14%,63 : 37
+251–300,Amirkabir University of Technology,Iran,"9,638",20.8,3%,34 : 66
+251–300,Cairo University,Egypt,"172,478",25.9,6%,60 : 40
+251–300,Concordia University,Canada,"36,586",34.2,33%,50 : 50
+251–300,Dalian University of Technology,China,"39,871",15.5,4%,34 : 66
+251–300,Dartmouth College,United States,"6,691",8.0,17%,48 : 52
+251–300,Florida Atlantic University,United States,"23,818",19.4,9%,66 : 34
+251–300,George Washington University,United States,"21,768",12.3,17%,61 : 39
+251–300,Hanyang University,South Korea,"19,796",13.5,24%,n/a
+251–300,Hebrew University of Jerusalem,Israel,"19,205",9.1,6%,57 : 43
+251–300,Hunan University,China,"35,950",15.2,3%,45 : 55
+251–300,Istanbul Technical University,Turkey,"19,081",19.4,13%,43 : 57
+251–300,King Khalid University,Saudi Arabia,"29,889",7.0,16%,61 : 39
+251–300,La Trobe University,Australia,"18,475",25.5,30%,64 : 36
+251–300,Lehigh University,United States,"6,768",11.5,16%,46 : 54
+251–300,Leibniz University Hannover,Germany,"18,700",37.5,16%,44 : 56
+251–300,Lund University,Sweden,"23,754",10.5,21%,55 : 45
+251–300,McMaster University,Canada,"28,046",29.4,22%,57 : 43
+251–300,Middle East Technical University,Turkey,"16,155",21.9,13%,48 : 52
+251–300,Nankai University,China,"32,171",11.5,6%,n/a
+251–300,Near East University,Northern Cyprus,"22,184",29.1,86%,48 : 52
+251–300,New Jersey Institute of Technology,United States,"9,987",15.0,25%,28 : 72
+251–300,Rensselaer Polytechnic Institute,United States,"7,141",16.3,19%,31 : 69
+251–300,Southeast University,China,"41,806",12.7,4%,35 : 65
+251–300,SUNY Binghamton University,United States,"18,497",20.7,8%,51 : 49
+251–300,Tampere University,Finland,"16,895",19.2,8%,53 : 47
+251–300,Temple University,United States,"32,761",11.8,6%,57 : 43
+251–300,The University of Texas at San Antonio,United States,"27,811",28.0,3%,53 : 47
+251–300,The University of Western Australia,Australia,"19,214",22.9,26%,51 : 49
+251–300,TU Dortmund University,Germany,"18,232",54.1,15%,49 : 51
+251–300,Ulm University,Germany,"10,316",24.4,14%,52 : 48
+251–300,Ulsan National Institute of Science and Technology (UNIST),South Korea,"3,803",11.6,9%,28 : 72
+251–300,Università della Svizzera italiana,Switzerland,"3,832",12.0,69%,46 : 54
+251–300,Université Paris Cité,France,"61,998",17.1,20%,66 : 34
+251–300,University of Bern,Switzerland,"12,054",17.7,17%,59 : 41
+251–300,University of Bradford,United Kingdom,"10,230",20.7,38%,56 : 44
+251–300,University of Delaware,United States,"21,379",16.4,11%,58 : 42
+251–300,University of Galway,Ireland,"16,039",26.0,18%,61 : 39
+251–300,University of Geneva,Switzerland,"18,261",8.1,41%,62 : 38
+251–300,University of Granada,Spain,"56,877",14.9,12%,60 : 40
+251–300,University of Kaiserslautern,Germany,"12,095",28.0,13%,50 : 50
+251–300,University of Konstanz,Germany,"6,858",33.0,13%,53 : 47
+251–300,University of Newcastle,Australia,"22,945",31.3,16%,58 : 42
+251–300,University of Pisa,Italy,"30,876",19.0,7%,52 : 48
+251–300,University of Pittsburgh-Pittsburgh campus,United States,"27,456",5.5,10%,55 : 45
+251–300,University of Potsdam,Germany,"13,297",34.9,15%,57 : 43
+251–300,University of Wollongong,Australia,"15,249",23.1,24%,55 : 45
+251–300,Uppsala University,Sweden,"24,313",12.6,18%,59 : 41
+251–300,Waseda University,Japan,"45,453",14.3,12%,39 : 61
+251–300,Western University,Canada,"31,227",32.7,24%,56 : 44
+251–300,Yeungnam University,South Korea,"18,876",15.1,5%,50 : 50
+301–400,Abu Dhabi University,United Arab Emirates,"2,344",10.7,60%,50 : 50
+301–400,Ajman University,United Arab Emirates,"4,535",13.7,81%,57 : 43
+301–400,"Amity University, Noida",India,"28,507",15.6,12%,52 : 48
+301–400,Aston University,United Kingdom,"13,850",19.5,30%,48 : 52
+301–400,Aswan University,Egypt,"35,637",43.1,1%,56 : 44
+301–400,Bar-Ilan University,Israel,"19,524",18.9,5%,60 : 40
+301–400,Beijing Normal University,China,"27,882",14.8,8%,n/a
+301–400,Carleton University,Canada,"28,811",28.3,22%,50 : 50
+301–400,Charles Darwin University,Australia,"7,107",23.7,26%,71 : 29
+301–400,Chung-Ang University,South Korea,"18,205",22.0,24%,n/a
+301–400,"City, University of London",United Kingdom,"16,415",18.7,46%,58 : 42
+301–400,Curtin University,Australia,"27,870",19.6,30%,53 : 47
+301–400,De Montfort University,United Kingdom,"22,275",18.3,42%,55 : 45
+301–400,Dublin City University,Ireland,"14,735",28.4,12%,58 : 42
+301–400,Durham University,United Kingdom,"21,065",13.7,33%,54 : 46
+301–400,East China Normal University,China,"29,374",14.3,8%,63 : 37
+301–400,Florida International University,United States,"35,021",21.9,8%,58 : 42
+301–400,Free University of Bozen-Bolzano,Italy,"4,109",8.7,16%,66 : 34
+301–400,George Mason University,United States,"32,428",17.2,11%,53 : 47
+301–400,Gwangju Institute of Science and Technology (GIST),South Korea,"1,838",9.8,9%,27 : 73
+301–400,Heriot-Watt University,United Kingdom,"10,140",18.8,43%,38 : 62
+301–400,Illinois Institute of Technology,United States,"6,082",12.3,39%,38 : 62
+301–400,IMT Atlantique,France,"1,381",7.7,38%,30 : 70
+301–400,Iran University of Science and Technology,Iran,"13,273",28.1,2%,38 : 62
+301–400,ITMO University,Russian Federation,"11,007",14.7,18%,33 : 67
+301–400,Jamia Millia Islamia,India,"10,374",11.7,5%,52 : 48
+301–400,Keio University,Japan,"33,718",10.0,9%,36 : 64
+301–400,Kyungpook National University (KNU),South Korea,"17,849",19.6,16%,47 : 53
+301–400,Kyushu University,Japan,"18,342",7.8,13%,29 : 71
+301–400,LUT University,Finland,"5,851",34.0,22%,35 : 65
+301–400,Memorial University of Newfoundland,Canada,"16,294",15.3,27%,54 : 46
+301–400,Mississippi State University,United States,"21,056",14.4,4%,53 : 47
+301–400,Missouri University of Science and Technology,United States,"7,163",21.3,11%,24 : 76
+301–400,National Taiwan University of Science and Technology (Taiwan Tech),Taiwan,"9,123",18.6,18%,30 : 70
+301–400,National University of Sciences and Technology,Pakistan,"12,636",9.6,4%,37 : 63
+301–400,Northumbria University,United Kingdom,"23,705",16.2,23%,56 : 44
+301–400,Pontifical Catholic University of Rio de Janeiro (PUC-Rio),Brazil,"12,241",18.8,1%,50 : 50
+301–400,Prince Sultan University (PSU),Saudi Arabia,"5,407",14.0,10%,56 : 44
+301–400,Qassim University,Saudi Arabia,"35,951",9.5,8%,66 : 34
+301–400,Queen’s University,Canada,"28,034",26.5,17%,58 : 42
+301–400,Queen’s University Belfast,United Kingdom,"21,110",16.6,43%,58 : 42
+301–400,"Royal Holloway, University of London",United Kingdom,"11,525",15.8,33%,56 : 44
+301–400,Sichuan University,China,"48,990",15.9,5%,n/a
+301–400,South China University of Technology,China,"40,967",12.4,6%,38 : 62
+301–400,Symbiosis International University,India,"16,659",13.0,7%,47 : 53
+301–400,The University of Jordan,Jordan,"25,265",10.6,23%,69 : 31
+301–400,Toronto Metropolitan University,Canada,"38,884",41.9,10%,55 : 45
+301–400,TU Braunschweig,Germany,"15,245",18.4,15%,42 : 58
+301–400,United Arab Emirates University,United Arab Emirates,"9,024",13.9,18%,73 : 27
+301–400,Universitat Politècnica de Catalunya,Spain,"23,979",10.1,13%,29 : 71
+301–400,Université Laval,Canada,"30,211",17.8,17%,59 : 41
+301–400,Université Libre de Bruxelles,Belgium,"32,121",55.5,29%,56 : 44
+301–400,Universiti Kebangsaan Malaysia,Malaysia,"19,655",10.4,26%,55 : 45
+301–400,Universiti Teknologi Malaysia,Malaysia,"18,192",11.1,31%,46 : 54
+301–400,University of Aberdeen,United Kingdom,"13,455",15.5,40%,57 : 43
+301–400,University of Antwerp,Belgium,"16,398",32.3,18%,57 : 43
+301–400,University of Bath,United Kingdom,"15,200",15.7,30%,45 : 55
+301–400,University of Bremen,Germany,"11,768",20.2,14%,56 : 44
+301–400,University of Calgary,Canada,"34,804",19.7,26%,53 : 47
+301–400,University of Campinas,Brazil,"33,332",19.8,3%,46 : 54
+301–400,University of Córdoba,Spain,"17,798",12.2,12%,58 : 42
+301–400,University of Crete,Greece,"13,797",24.9,4%,64 : 36
+301–400,University of Duisburg-Essen,Germany,"40,639",38.1,20%,49 : 51
+301–400,"University of Engineering and Technology, Taxila",Pakistan,"5,505",20.6,2%,21 : 79
+301–400,University of Exeter,United Kingdom,"29,310",16.9,29%,53 : 47
+301–400,University of Georgia (USA),United States,"38,399",15.9,7%,59 : 41
+301–400,University of Göttingen,Germany,"21,729",25.2,14%,54 : 46
+301–400,University of Guelph,Canada,"22,115",26.5,11%,59 : 41
+301–400,University of Innsbruck,Austria,"14,546",22.6,50%,55 : 45
+301–400,University of Iowa,United States,"28,098",10.7,5%,56 : 44
+301–400,University of Jaén,Spain,"13,457",16.3,7%,57 : 43
+301–400,University of Kentucky,United States,"27,322",11.0,3%,59 : 41
+301–400,University of Liège,Belgium,"24,237",32.5,21%,58 : 42
+301–400,"University of Maryland, Baltimore County",United States,"12,186",17.6,17%,46 : 54
+301–400,University of Naples Federico II,Italy,"55,334",19.2,2%,56 : 44
+301–400,University of Nebraska-Lincoln,United States,"24,593",17.2,8%,50 : 50
+301–400,University of New Brunswick UNB,Canada,"8,708",15.9,18%,54 : 46
+301–400,University of Oregon,United States,"21,695",13.2,5%,56 : 44
+301–400,University of Porto,Portugal,"37,143",16.9,19%,55 : 45
+301–400,University of Reading,United Kingdom,"15,500",15.8,31%,55 : 45
+301–400,University of Salford,United Kingdom,"20,825",21.3,27%,55 : 45
+301–400,University of São Paulo,Brazil,"82,374",13.9,2%,48 : 52
+301–400,University of Saskatchewan,Canada,"18,056",18.4,22%,55 : 45
+301–400,University of Southern Queensland,Australia,"10,808",24.6,15%,63 : 37
+301–400,University of St Gallen,Switzerland,"8,741",13.0,35%,35 : 65
+301–400,University of Strathclyde,United Kingdom,"20,970",16.3,27%,51 : 49
+301–400,University of Tartu,Estonia,"9,449",8.6,13%,67 : 33
+301–400,University of Texas at Arlington,United States,"38,927",32.8,15%,62 : 38
+301–400,University of Utah,United States,"32,540",13.1,9%,50 : 50
+301–400,University of Windsor,Canada,"15,179",35.4,38%,n/a
+301–400,UPES,India,"9,443",9.5,0%,31 : 69
+301–400,Victoria University,Australia,"13,529",37.3,20%,58 : 42
+301–400,Victoria University of Wellington,New Zealand,"16,703",17.7,17%,59 : 41
+301–400,Vrije Universiteit Brussel,Belgium,"15,481",35.0,24%,58 : 42
+301–400,Washington State University,United States,"27,562",18.0,6%,55 : 45
+301–400,Wayne State University,United States,"21,340",12.6,5%,60 : 40
+301–400,William & Mary,United States,"8,599",11.8,7%,58 : 42
+301–400,Worcester Polytechnic Institute,United States,"6,272",13.6,14%,38 : 62
+301–400,Zayed University,United Arab Emirates,"8,892",14.8,2%,86 : 14
+401–500,Al-Ahliyya Amman University,Jordan,"4,390",13.7,62%,49 : 51
+401–500,Al-Balqa Applied University,Jordan,"24,118",23.9,3%,59 : 41
+401–500,Aligarh Muslim University,India,"19,237",11.6,1%,42 : 58
+401–500,Aristotle University of Thessaloniki,Greece,"48,660",17.6,5%,58 : 42
+401–500,Ben-Gurion University of the Negev,Israel,"16,767",20.8,2%,52 : 48
+401–500,Benha University,Egypt,"109,804",30.0,2%,47 : 53
+401–500,Boğaziçi University,Turkey,"12,651",28.3,3%,45 : 55
+401–500,Carlos III University of Madrid,Spain,"18,013",10.7,16%,47 : 53
+401–500,Centrale Nantes,France,"1,696",14.3,38%,25 : 75
+401–500,Charles University,Czechia,"52,669",13.0,24%,62 : 38
+401–500,Chongqing University,China,"44,082",16.2,2%,n/a
+401–500,Chulalongkorn University,Thailand,"35,032",13.1,4%,56 : 44
+401–500,COMSATS University Islamabad,Pakistan,"33,879",15.5,1%,38 : 62
+401–500,Daegu Gyeongbuk Institute of Science and Technology (DGIST),South Korea,892,7.6,4%,37 : 63
+401–500,Dalhousie University,Canada,"17,757",14.7,28%,53 : 47
+401–500,École Nationale des Ponts et Chaussées - Institut Polytechnique de Paris,France,"2,014",7.2,39%,32 : 68
+401–500,Edinburgh Napier University,United Kingdom,"13,325",21.5,34%,53 : 47
+401–500,Edith Cowan University,Australia,"17,012",29.5,26%,63 : 37
+401–500,Federation University Australia,Australia,"8,663",19.4,40%,60 : 40
+401–500,Flinders University,Australia,"15,324",31.1,33%,65 : 35
+401–500,Friedrich Schiller University Jena,Germany,"15,372",17.8,14%,n/a
+401–500,Hasselt University,Belgium,"5,770",28.9,15%,49 : 51
+401–500,Imam Abdulrahman Bin Faisal University,Saudi Arabia,"24,964",11.4,5%,85 : 15
+401–500,Imam Mohammad Ibn Saud Islamic University,Saudi Arabia,"40,918",10.5,5%,39 : 61
+401–500,Indian Institute of Technology Indore,India,"2,091",11.9,0%,22 : 78
+401–500,"International Institute of Information Technology, Hyderabad",India,"1,997",18.0,7%,22 : 78
+401–500,Isfahan University of Technology,Iran,"10,028",22.8,1%,40 : 60
+401–500,Jahangirnagar University,Bangladesh,"12,965",18.1,0%,49 : 51
+401–500,Jeju National University,South Korea,"10,056",16.0,5%,53 : 47
+401–500,KIIT University,India,"24,851",12.2,10%,49 : 51
+401–500,King Faisal University,Saudi Arabia,"30,867",15.2,2%,62 : 38
+401–500,Liverpool John Moores University,United Kingdom,"23,725",18.2,15%,55 : 45
+401–500,Maastricht University,Netherlands,"21,438",19.2,58%,60 : 40
+401–500,Majmaah University,Saudi Arabia,"12,882",11.6,2%,43 : 57
+401–500,Manchester Metropolitan University,United Kingdom,"32,145",18.0,18%,58 : 42
+401–500,Mansoura University,Egypt,"185,564",40.8,6%,52 : 48
+401–500,Murdoch University,Australia,"13,747",28.2,40%,n/a
+401–500,Nanjing University of Aeronautics and Astronautics,China,"34,805",15.1,2%,n/a
+401–500,Nanjing University of Information Science and Technology,China,"37,168",16.1,3%,n/a
+401–500,National Taiwan Normal University,Taiwan,"10,891",12.2,14%,n/a
+401–500,"Northeastern University, China",China,"40,783",13.0,2%,n/a
+401–500,Nottingham Trent University,United Kingdom,"34,740",15.1,24%,55 : 45
+401–500,Oklahoma State University,United States,"21,851",14.4,5%,52 : 48
+401–500,Old Dominion University,United States,"17,943",16.5,3%,57 : 43
+401–500,Peter the Great St Petersburg Polytechnic University,Russian Federation,"16,418",9.9,32%,43 : 57
+401–500,Polytechnic University of Valencia,Spain,"29,166",15.2,15%,42 : 58
+401–500,Prince Sattam Bin Abdulaziz University,Saudi Arabia,"26,566",11.7,2%,64 : 36
+401–500,Princess Nourah bint Abdulrahman University,Saudi Arabia,"21,785",12.3,19%,100 : 0
+401–500,Pusan National University,South Korea,"17,421",17.0,11%,53 : 47
+401–500,Sabancı University,Turkey,"3,738",19.9,11%,37 : 63
+401–500,Shanghai University,China,"38,849",13.1,6%,50 : 50
+401–500,Stockholm University,Sweden,"28,689",17.4,14%,n/a
+401–500,Sunway University,Malaysia,"4,693",10.0,18%,52 : 48
+401–500,SUNY University at Albany,United States,"15,145",16.4,6%,53 : 47
+401–500,Syracuse University,United States,"19,621",14.9,20%,54 : 46
+401–500,Taif University,Saudi Arabia,"39,303",17.9,3%,56 : 44
+401–500,Tecnológico de Monterrey,Mexico,"17,986",16.0,14%,43 : 57
+401–500,Texas Tech University,United States,"37,331",21.1,6%,50 : 50
+401–500,Thapar Institute of Engineering and Technology,India,"9,135",15.0,2%,35 : 65
+401–500,The University of Aizu,Japan,"1,240",11.3,13%,11 : 89
+401–500,Tilburg University,Netherlands,"12,738",24.5,23%,52 : 48
+401–500,Ton Duc Thang University,Vietnam,"27,483",18.2,1%,58 : 42
+401–500,Tufts University,United States,"12,647",11.0,17%,58 : 42
+401–500,Université Côte d'Azur,France,"33,085",21.4,20%,56 : 44
+401–500,University of Arizona,United States,"47,926",19.6,7%,57 : 43
+401–500,University of Arkansas,United States,"26,280",19.6,4%,56 : 44
+401–500,University of Bayreuth,Germany,"7,655",20.7,15%,45 : 55
+401–500,University of Bordeaux,France,"50,941",21.3,15%,60 : 40
+401–500,University of Cagliari,Italy,"14,084",15.4,2%,62 : 38
+401–500,University of Calabria,Italy,"9,324",13.8,6%,55 : 45
+401–500,University of Eastern Finland,Finland,"12,420",16.8,6%,68 : 32
+401–500,University of Florence,Italy,"40,415",22.4,11%,57 : 43
+401–500,University of Genoa,Italy,"20,489",17.8,8%,59 : 41
+401–500,University of Hamburg,Germany,"28,410",57.3,13%,58 : 42
+401–500,University of Houston,United States,"46,645",24.5,16%,53 : 47
+401–500,University of Johannesburg,South Africa,"31,430",26.2,14%,56 : 44
+401–500,University of Kent,United Kingdom,"15,875",17.0,28%,54 : 46
+401–500,University of Lincoln,United Kingdom,"14,840",15.1,17%,56 : 44
+401–500,University of Lisbon,Portugal,"49,161",17.7,20%,54 : 46
+401–500,University of Messina,Italy,"13,445",21.4,3%,63 : 37
+401–500,University of Milan-Bicocca,Italy,"29,952",27.5,5%,62 : 38
+401–500,University of Modena and Reggio Emilia,Italy,"20,370",23.3,5%,54 : 46
+401–500,University of Münster,Germany,"26,664",24.4,6%,n/a
+401–500,University of North Carolina at Charlotte,United States,"26,172",20.1,7%,50 : 50
+401–500,University of Otago,New Zealand,"18,927",20.1,15%,61 : 39
+401–500,University of Passau,Germany,"7,761",50.2,14%,60 : 40
+401–500,University of Plymouth,United Kingdom,"15,540",16.6,18%,60 : 40
+401–500,University of Portsmouth,United Kingdom,"22,700",15.8,32%,48 : 52
+401–500,University of Regina,Canada,"13,245",24.0,27%,63 : 37
+401–500,University of Rennes 1,France,"27,656",18.5,11%,54 : 46
+401–500,University of Salerno,Italy,"19,060",24.1,3%,57 : 43
+401–500,University of Siena,Italy,"10,438",16.8,10%,63 : 37
+401–500,University of Southern Denmark,Denmark,"17,572",9.5,14%,53 : 47
+401–500,University of South Florida,United States,"39,710",19.3,14%,n/a
+401–500,University of Sussex,United Kingdom,"18,250",17.5,34%,55 : 45
+401–500,University of Tabriz,Iran,"21,199",23.6,7%,51 : 49
+401–500,University of Tasmania,Australia,"14,344",18.9,29%,60 : 40
+401–500,University of Texas at Dallas,United States,"27,266",23.8,17%,44 : 56
+401–500,University of Toulouse,France,"109,715",24.1,16%,56 : 44
+401–500,University of Turku,Finland,"13,835",15.8,6%,64 : 36
+401–500,VIT University,India,"38,187",13.4,5%,30 : 70
+401–500,Western Sydney University,Australia,"33,215",34.8,22%,59 : 41
+401–500,Yıldız Technical University,Turkey,"20,928",22.6,13%,43 : 57
+501–600,Abdul Wali Khan University Mardan,Pakistan,"12,706",22.2,0%,27 : 73
+501–600,Air University,Pakistan,"9,192",13.7,0%,37 : 63
+501–600,American University of Beirut,Lebanon,"8,100",8.5,19%,49 : 51
+501–600,Applied Science Private University,Jordan,"3,776",10.7,24%,53 : 47
+501–600,Athens University of Economics and Business,Greece,"8,957",45.9,5%,46 : 54
+501–600,Autonomous University of Madrid,Spain,"30,249",13.3,16%,62 : 38
+501–600,Bilkent University,Turkey,"8,503",15.3,5%,48 : 52
+501–600,Brno University of Technology,Czechia,"17,834",15.1,26%,28 : 72
+501–600,Chengdu University,China,"25,627",15.6,2%,55 : 45
+501–600,Claude Bernard University Lyon 1,France,"27,088",12.7,15%,55 : 45
+501–600,Colorado School of Mines,United States,"6,868",18.3,8%,32 : 68
+501–600,CY Cergy Paris University,France,"16,490",19.7,25%,51 : 49
+501–600,Czech Technical University in Prague,Czechia,"15,526",8.6,20%,30 : 70
+501–600,Donghua University,China,"23,469",13.5,7%,43 : 57
+501–600,Duy Tan University,Vietnam,"22,050",22.3,1%,64 : 36
+501–600,ENSTA Bretagne,France,687,8.7,15%,25 : 75
+501–600,Federal University of Rio de Janeiro,Brazil,"54,201",15.3,1%,55 : 45
+501–600,Firat University,Turkey,"38,169",23.8,6%,65 : 35
+501–600,Florida State University,United States,"41,180",25.5,7%,58 : 42
+501–600,Fu Jen Catholic University,Taiwan,"19,251",30.2,5%,59 : 41
+501–600,Gachon University,South Korea,"19,066",26.6,19%,51 : 49
+501–600,Georgetown University,United States,"17,579",9.8,18%,55 : 45
+501–600,Georgia State University,United States,"33,424",17.2,8%,55 : 45
+501–600,Guangdong University of Technology,China,"52,318",18.1,0%,27 : 73
+501–600,Guangzhou University,China,"38,183",14.7,0%,41 : 59
+501–600,Harbin Engineering University,China,"33,294",18.9,2%,23 : 77
+501–600,HSE University,Russian Federation,"36,596",19.6,12%,n/a
+501–600,Indian Institute of Technology Patna,India,"2,839",19.9,0%,19 : 81
+501–600,"International Islamic University, Islamabad",Pakistan,"24,924",22.2,6%,57 : 43
+501–600,Jouf University,Saudi Arabia,"17,820",9.2,3%,54 : 46
+501–600,Kalasalingam Academy of Research and Education,India,"5,332",4.4,10%,55 : 45
+501–600,Kansas State University,United States,"18,732",13.9,5%,54 : 46
+501–600,King Mongkut's University of Technology North Bangkok,Thailand,"27,846",22.7,0%,40 : 60
+501–600,Konkuk University,South Korea,"11,501",23.4,20%,n/a
+501–600,Lovely Professional University,India,"32,990",14.8,8%,27 : 73
+501–600,Massey University,New Zealand,"16,035",15.9,27%,65 : 35
+501–600,Middlesex University,United Kingdom,"13,875",17.0,49%,60 : 40
+501–600,Minia University,Egypt,"67,781",15.4,1%,57 : 43
+501–600,Montpellier University,France,"40,361",20.3,16%,55 : 45
+501–600,National and Kapodistrian University of Athens,Greece,"67,550",32.0,12%,60 : 40
+501–600,National Cheng Kung University (NCKU),Taiwan,"21,420",15.8,12%,37 : 63
+501–600,National Research Nuclear University MEPhI,Russian Federation,"5,002",9.9,29%,46 : 54
+501–600,National Sun Yat-Sen University,Taiwan,"8,559",12.0,10%,43 : 57
+501–600,Nazarbayev University,Kazakhstan,"6,045",14.5,3%,52 : 48
+501–600,Obuda University,Hungary,"7,718",23.0,8%,21 : 79
+501–600,Ozyegin University,Turkey,"6,221",25.8,10%,45 : 55
+501–600,Pontificia Universidad Católica de Chile,Chile,"31,720",15.6,5%,n/a
+501–600,Qingdao University,China,"41,848",15.4,2%,51 : 49
+501–600,Quaid-i-Azam University,Pakistan,"10,991",18.4,2%,46 : 54
+501–600,Rochester Institute of Technology,United States,"14,757",16.1,12%,36 : 64
+501–600,Saveetha Institute of Medical and Technical Sciences,India,"12,468",10.0,7%,48 : 52
+501–600,Savitribai Phule Pune University,India,"6,004",8.7,3%,46 : 54
+501–600,Shiraz University,Iran,"14,908",21.2,3%,55 : 45
+501–600,Southwest Jiaotong University,China,"44,270",15.2,1%,37 : 63
+501–600,Stellenbosch University,South Africa,"24,979",25.5,7%,57 : 43
+501–600,Technical University of Madrid,Spain,"39,695",15.9,16%,34 : 66
+501–600,Technische Universität Ilmenau,Germany,"4,877",18.4,34%,29 : 71
+501–600,The Hashemite University,Jordan,"18,207",21.5,17%,62 : 38
+501–600,Umeå University,Sweden,"13,648",9.9,8%,62 : 38
+501–600,Umm Al-Qura University,Saudi Arabia,"32,557",12.2,8%,54 : 46
+501–600,Universidade Federal do Rio Grande do Sul,Brazil,"40,297",14.4,1%,52 : 48
+501–600,Universitat Autònoma de Barcelona (UAB),Spain,"32,795",13.1,15%,61 : 39
+501–600,Universiti Putra Malaysia,Malaysia,"23,581",12.4,30%,64 : 36
+501–600,University College Cork,Ireland,"19,307",21.0,20%,59 : 41
+501–600,University of Bari Aldo Moro,Italy,"29,891",19.3,2%,62 : 38
+501–600,University of Bergen,Norway,"15,607",13.0,12%,59 : 41
+501–600,University of Chile,Chile,"39,966",16.9,3%,51 : 49
+501–600,University of Coimbra,Portugal,"22,687",19.9,18%,57 : 43
+501–600,University of Connecticut,United States,"28,524",11.6,11%,53 : 47
+501–600,University of Cyprus,Cyprus,"7,002",20.4,13%,62 : 38
+501–600,University of Gothenburg,Sweden,"21,568",11.5,13%,n/a
+501–600,University of Greenwich,United Kingdom,"19,330",23.9,52%,56 : 44
+501–600,University of Ha’il,Saudi Arabia,"20,102",11.1,4%,63 : 37
+501–600,University of Huddersfield,United Kingdom,"13,685",18.5,28%,59 : 41
+501–600,University of Jyväskylä,Finland,"10,910",13.1,4%,63 : 37
+501–600,University of Kansas,United States,"23,598",9.5,7%,54 : 46
+501–600,University of KwaZulu-Natal,South Africa,"34,156",30.9,2%,61 : 39
+501–600,University of Lille,France,"79,077",30.9,14%,61 : 39
+501–600,University of Lorraine,France,"62,161",20.6,15%,54 : 46
+501–600,University of Memphis,United States,"16,008",14.4,7%,61 : 39
+501–600,University of Miami,United States,"18,354",10.8,13%,54 : 46
+501–600,University of Mons,Belgium,"8,604",29.8,19%,56 : 44
+501–600,University of Palermo,Italy,"36,146",38.6,2%,56 : 44
+501–600,University of Rhode Island,United States,"15,800",17.2,3%,58 : 42
+501–600,University of Seville,Spain,"58,252",18.4,10%,57 : 43
+501–600,University of the Basque Country,Spain,"41,749",14.9,5%,60 : 40
+501–600,University of the Punjab,Pakistan,"30,994",23.7,1%,57 : 43
+501–600,University of Tsukuba,Japan,"15,383",12.2,16%,38 : 62
+501–600,University of Turin,Italy,"61,291",27.0,6%,62 : 38
+501–600,University of Waikato,New Zealand,"10,117",19.9,27%,62 : 38
+501–600,University of Zaragoza,Spain,"28,232",11.1,8%,54 : 46
+501–600,Virginia Commonwealth University,United States,"25,537",10.5,4%,64 : 36
+501–600,Wenzhou University,China,"26,331",19.3,3%,51 : 49
+501–600,Xi’an Jiaotong-Liverpool University,China,"20,820",19.2,3%,53 : 47
+501–600,Zagazig University,Egypt,"169,641",23.3,3%,52 : 48
+501–600,Zhejiang Normal University,China,"30,951",12.4,4%,n/a
+601–800,AGH University of Krakow,Poland,"18,279",11.6,4%,34 : 66
+601–800,Ain Shams University,Egypt,"169,073",14.6,7%,50 : 50
+601–800,Aix-Marseille University,France,"72,381",15.5,15%,60 : 40
+601–800,Ajou University,South Korea,"7,763",15.9,15%,40 : 60
+601–800,Al-Azhar University,Egypt,"270,123",21.6,9%,42 : 58
+601–800,Alexandria University,Egypt,"199,537",20.6,5%,60 : 40
+601–800,Al-Zaytoonah University of Jordan,Jordan,"8,663",27.0,31%,49 : 51
+601–800,American University of Sharjah,United Arab Emirates,"5,024",12.8,74%,54 : 46
+601–800,Assiut University,Egypt,"96,739",16.5,6%,40 : 60
+601–800,Auckland University of Technology,New Zealand,"17,888",16.4,45%,61 : 39
+601–800,Babol Noshirvani University of Technology,Iran,"5,768",26.1,2%,35 : 65
+601–800,Bahçeşehir University,Turkey,"19,003",46.6,24%,50 : 50
+601–800,Bahria University,Pakistan,"21,123",20.8,1%,48 : 52
+601–800,Banaras Hindu University,India,"13,954",8.9,3%,43 : 57
+601–800,Institut Teknologi Bandung,Indonesia,"28,650",16.3,4%,44 : 56
+601–800,Bangladesh University of Engineering and Technology,Bangladesh,"6,040",12.2,0%,23 : 77
+601–800,Bharathiar University,India,"3,953",18.8,0%,54 : 46
+601–800,Birla Institute of Technology,India,"6,110",19.5,0%,27 : 73
+601–800,"Birla Institute of Technology and Science, Pilani",India,"15,852",15.9,3%,19 : 81
+601–800,Birmingham City University,United Kingdom,"25,145",17.2,28%,63 : 37
+601–800,Bournemouth University,United Kingdom,"14,375",18.3,21%,54 : 46
+601–800,Budapest University of Technology and Economics,Hungary,"18,440",16.8,14%,30 : 70
+601–800,Ca’ Foscari University of Venice,Italy,"11,475",21.2,12%,65 : 35
+601–800,Central Queensland University,Australia,"12,201",24.1,19%,64 : 36
+601–800,Chang Gung University,Taiwan,"7,113",12.1,5%,50 : 50
+601–800,Changsha University of Science and Technology,China,"38,593",17.5,1%,35 : 65
+601–800,China University of Petroleum (East China),China,"29,854",17.0,2%,33 : 67
+601–800,Chitkara University,India,"16,862",14.6,3%,42 : 58
+601–800,Chittagong University of Engineering & Technology,Bangladesh,"5,935",17.6,0%,23 : 77
+601–800,Chosun University,South Korea,"19,747",25.2,3%,48 : 52
+601–800,Chungbuk National University,South Korea,"12,764",13.9,7%,44 : 56
+601–800,Chungnam National University,South Korea,"20,399",19.7,4%,46 : 54
+601–800,"Colorado State University, Fort Collins",United States,"28,016",17.2,4%,56 : 44
+601–800,Complutense University of Madrid,Spain,"59,049",10.8,12%,63 : 37
+601–800,Covenant University,Nigeria,"8,542",17.0,0%,41 : 59
+601–800,Coventry University,United Kingdom,"31,065",14.9,51%,49 : 51
+601–800,Cyprus University of Technology,Cyprus,"3,592",17.1,14%,57 : 43
+601–800,Daffodil International University (DIU),Bangladesh,"16,905",21.8,5%,37 : 63
+601–800,Delhi Technological University,India,"15,127",23.8,3%,18 : 82
+601–800,Drexel University,United States,"16,688",10.6,16%,51 : 49
+601–800,Ewha Womans University,South Korea,"13,916",16.4,16%,100 : 0
+601–800,Federal University of Minas Gerais,Brazil,"43,286",14.2,1%,56 : 44
+601–800,Ferdowsi University of Mashhad,Iran,"22,692",28.6,8%,54 : 46
+601–800,Future University in Egypt,Egypt,"8,212",9.6,11%,43 : 57
+601–800,Fuzhou University,China,"43,102",17.8,1%,39 : 61
+601–800,Galgotias University,India,"18,181",15.0,3%,38 : 62
+601–800,Goethe University Frankfurt,Germany,"27,937",20.1,13%,59 : 41
+601–800,Government College University Faisalabad,Pakistan,"21,210",25.6,0%,45 : 55
+601–800,Hacettepe University,Turkey,"42,712",23.4,3%,59 : 41
+601–800,Hamburg University of Technology,Germany,"4,482",27.5,24%,26 : 74
+601–800,Hangzhou Normal University,China,"29,618",17.2,1%,n/a
+601–800,Hanoi University of Science and Technology,Vietnam,"37,561",34.8,0%,20 : 80
+601–800,Heinrich Heine University Düsseldorf,Germany,"25,140",26.0,14%,59 : 41
+601–800,Hiroshima University,Japan,"14,775",8.1,11%,38 : 62
+601–800,Hokkaido University,Japan,"17,687",8.2,10%,29 : 71
+601–800,Hosei University,Japan,"28,423",37.2,5%,39 : 61
+601–800,Huaqiao University,China,"34,465",17.5,20%,50 : 50
+601–800,Indian Institute of Technology Gandhinagar,India,"2,014",13.4,1%,28 : 72
+601–800,Indraprastha Institute of Information Technology Delhi,India,"2,858",22.7,5%,20 : 80
+601–800,Inha University,South Korea,"15,423",17.9,8%,45 : 55
+601–800,Innopolis University,Russian Federation,"1,086",16.2,30%,18 : 82
+601–800,Jawaharlal Nehru University,India,"9,297",13.5,1%,44 : 56
+601–800,Jaypee University of Information Technology,India,"1,826",19.0,2%,27 : 73
+601–800,Jazan University,Saudi Arabia,"22,268",11.9,3%,65 : 35
+601–800,Jeonbuk National University,South Korea,"20,352",20.3,8%,46 : 54
+601–800,Jiangnan University,China,"31,809",12.1,1%,n/a
+601–800,Jiangsu University,China,"35,403",9.3,6%,43 : 57
+601–800,Jinan University (China),China,"38,472",15.3,27%,56 : 44
+601–800,Jordan University of Science and Technology,Jordan,"20,254",13.8,21%,34 : 66
+601–800,Kafrelsheikh University,Egypt,"75,622",29.8,2%,55 : 45
+601–800,Karabük University,Turkey,"46,066",40.1,27%,41 : 59
+601–800,Karunya Institute of Technology and Sciences,India,"7,625",15.0,0%,37 : 63
+601–800,Kazan Federal University,Russian Federation,"22,498",10.7,33%,63 : 37
+601–800,Khon Kaen University,Thailand,"32,679",17.1,2%,62 : 38
+601–800,King Mongkut’s University of Technology Thonburi,Thailand,"14,866",19.7,5%,45 : 55
+601–800,KL University,India,"16,650",13.6,3%,42 : 58
+601–800,K.N. Toosi University of Technology,Iran,"8,099",21.3,2%,34 : 66
+601–800,Kobe University,Japan,"15,403",10.2,7%,35 : 65
+601–800,Lakehead University,Canada,"8,603",24.9,21%,58 : 42
+601–800,Lebanese University,Lebanon,"45,248",14.6,16%,70 : 30
+601–800,Mahidol University,Thailand,"28,570",7.5,5%,63 : 37
+601–800,Masaryk University,Czechia,"33,136",18.2,24%,62 : 38
+601–800,Maynooth University,Ireland,"12,094",27.0,14%,57 : 43
+601–800,Menoufia University,Egypt,"115,583",26.5,1%,46 : 54
+601–800,Miguel Hernández University of Elche,Spain,"11,967",16.1,9%,50 : 50
+601–800,Mohammed VI Polytechnic University,Morocco,"2,092",9.5,3%,44 : 56
+601–800,Moscow Technical University of Communications and Informatics,Russian Federation,"5,437",19.7,6%,19 : 81
+601–800,Moulay Ismail University,Morocco,"80,794",72.0,0%,54 : 46
+601–800,Multimedia University,Malaysia,"9,057",14.8,10%,45 : 55
+601–800,National Central University,Taiwan,"11,174",9.9,8%,36 : 64
+601–800,National University of Computer and Emerging Sciences,Pakistan,"15,934",23.5,3%,22 : 78
+601–800,New Mexico State University (Main campus),United States,"11,900",15.7,5%,58 : 42
+601–800,North China Electric Power University,China,"36,176",19.1,3%,40 : 60
+601–800,North South University,Bangladesh,"16,938",18.3,0%,43 : 57
+601–800,NOVA University of Lisbon,Portugal,"23,369",18.4,24%,51 : 49
+601–800,Oakland University,United States,"13,744",15.8,4%,58 : 42
+601–800,Ontario Tech University,Canada,"9,537",30.2,10%,43 : 57
+601–800,Open University of Catalonia,Spain,"33,529",94.6,6%,58 : 42
+601–800,Osmania University,India,"10,097",23.0,3%,40 : 60
+601–800,Panjab University,India,"17,591",16.8,1%,63 : 37
+601–800,Paris Lodron Universität Salzburg,Austria,"6,191",8.6,38%,68 : 32
+601–800,Public University of Navarre,Spain,"8,413",11.5,7%,52 : 48
+601–800,REVA University,India,"15,190",20.5,1%,33 : 67
+601–800,Riphah International University,Pakistan,"26,155",17.3,0%,55 : 45
+601–800,Ritsumeikan University,Japan,"35,421",17.7,9%,37 : 63
+601–800,Rovira i Virgili University,Spain,"13,971",13.1,13%,60 : 40
+601–800,San Diego State University,United States,"31,770",26.8,5%,58 : 42
+601–800,Seoul National University of Science and Technology (SeoulTech),South Korea,"8,569",12.9,11%,37 : 63
+601–800,Shahid Bahonar University of Kerman,Iran,"13,458",22.5,1%,60 : 40
+601–800,Shahid Beheshti University,Iran,"27,279",21.8,1%,55 : 45
+601–800,Shahrood University of Technology,Iran,"8,778",21.3,5%,45 : 55
+601–800,Shantou University,China,"20,004",16.1,1%,50 : 50
+601–800,Sharda University,India,"12,064",12.7,12%,44 : 56
+601–800,Siksha ‘O’ Anusandhan,India,"11,259",10.0,3%,57 : 43
+601–800,Silesian University of Technology,Poland,"16,622",11.2,5%,31 : 69
+601–800,Sogang University,South Korea,"9,747",24.1,17%,46 : 54
+601–800,"Soochow University, China",China,"46,951",15.5,2%,51 : 49
+601–800,Soonchunhyang University,South Korea,"8,847",18.8,6%,51 : 49
+601–800,SRM Institute of Science and Technology,India,"52,953",13.6,2%,37 : 63
+601–800,Sukkur IBA University,Pakistan,"5,504",19.9,0%,30 : 70
+601–800,Taibah University,Saudi Arabia,"57,535",24.2,2%,61 : 39
+601–800,Tallinn University of Technology,Estonia,"7,728",10.1,13%,40 : 60
+601–800,Tanta University,Egypt,"133,134",21.5,1%,53 : 47
+601–800,Teesside University,United Kingdom,"15,860",20.6,37%,56 : 44
+601–800,The Islamia University of Bahawalpur,Pakistan,"65,016",48.7,0%,41 : 59
+601–800,The Open University,United Kingdom,"83,185",30.9,9%,66 : 34
+601–800,The University of Alabama,United States,"35,247",21.0,3%,57 : 43
+601–800,Tokyo University of Agriculture and Technology,Japan,"5,884",15.9,7%,35 : 65
+601–800,Tomsk Polytechnic University,Russian Federation,"8,810",10.1,33%,32 : 68
+601–800,UiT The Arctic University of Norway,Norway,"15,578",10.7,8%,59 : 41
+601–800,Ulster University,United Kingdom,"18,805",18.3,12%,57 : 43
+601–800,UNIR – International University of La Rioja,Spain,"42,051",42.0,38%,63 : 37
+601–800,Universidade Estadual Paulista (Unesp),Brazil,"36,463",12.6,4%,51 : 49
+601–800,Universitas Gadjah Mada,Indonesia,"42,964",8.5,4%,58 : 42
+601–800,Université de Bretagne Occidentale,France,"22,380",30.2,11%,59 : 41
+601–800,Université Hassan II de Casablanca,Morocco,"126,408",34.9,2%,54 : 46
+601–800,Université Polytechnique Hauts-de-France,France,"13,991",30.2,12%,47 : 53
+601–800,Universiti Malaysia Pahang Al-Sultan Abdullah (UMPSA),Malaysia,"8,152",13.1,8%,47 : 53
+601–800,Universiti Tenaga Nasional (UNITEN),Malaysia,"4,236",9.4,20%,32 : 68
+601–800,Universiti Tun Hussein Onn Malaysia (UTHM),Malaysia,"15,035",15.8,7%,55 : 45
+601–800,Universiti Utara Malaysia,Malaysia,"11,690",11.4,32%,66 : 34
+601–800,University of Alcalá,Spain,"16,794",11.6,18%,58 : 42
+601–800,University of Anbar,Iraq,"28,185",12.7,1%,55 : 45
+601–800,University of Beira Interior,Portugal,"8,179",17.2,20%,53 : 47
+601–800,University of Canterbury,New Zealand,"15,960",20.8,16%,53 : 47
+601–800,University of Cape Town,South Africa,"21,021",13.0,13%,55 : 45
+601–800,University of Cologne,Germany,"29,832",27.7,17%,n/a
+601–800,University of Delhi,India,"25,926",21.0,2%,47 : 53
+601–800,University of Dhaka,Bangladesh,"194,187",12.5,3%,59 : 41
+601–800,"University of Engineering and Technology, Peshawar",Pakistan,"11,862",27.8,1%,9 : 91
+601–800,University of Engineering & Technology (UET) Lahore,Pakistan,"12,720",12.5,2%,29 : 71
+601–800,University of Fribourg,Switzerland,"6,871",15.3,17%,64 : 36
+601–800,University of Hawai’i at Mānoa,United States,"15,692",12.3,10%,59 : 41
+601–800,University of Hertfordshire,United Kingdom,"23,060",17.4,54%,48 : 52
+601–800,University of Hradec Králové,Czechia,"6,264",12.3,3%,64 : 36
+601–800,University of Ilorin,Nigeria,"48,837",36.3,0%,48 : 52
+601–800,University of Indonesia,Indonesia,"39,882",7.8,18%,74 : 26
+601–800,University of Isfahan,Iran,"17,385",24.1,8%,58 : 42
+601–800,University of Kragujevac,Serbia,"17,212",14.1,1%,61 : 39
+601–800,University of L’Aquila,Italy,"18,553",23.9,6%,53 : 47
+601–800,University of Limerick,Ireland,"14,485",27.1,18%,51 : 49
+601–800,University of Ljubljana,Slovenia,"39,010",13.2,9%,60 : 40
+601–800,University of Malaga,Spain,"35,900",12.9,6%,54 : 46
+601–800,University of Management and Technology,Pakistan,"24,107",20.3,2%,52 : 48
+601–800,University of Marburg,Germany,"22,698",28.6,13%,56 : 44
+601–800,University of Milan,Italy,"51,208",20.9,7%,60 : 40
+601–800,University of Minho,Portugal,"21,765",21.0,13%,55 : 45
+601–800,University of Murcia,Spain,"30,210",17.2,5%,63 : 37
+601–800,University of Parma,Italy,"31,192",32.6,7%,59 : 41
+601–800,University of Patras,Greece,"29,906",27.6,6%,52 : 48
+601–800,University of Pretoria,South Africa,"35,826",20.3,6%,60 : 40
+601–800,University of Rome III,Italy,"33,599",45.0,5%,61 : 39
+601–800,University of Rouen Normandie,France,"31,760",24.9,14%,60 : 40
+601–800,University of Salamanca,Spain,"25,098",14.6,16%,61 : 39
+601–800,University of Salento,Italy,"14,383",22.6,2%,63 : 37
+601–800,University of Santiago de Compostela,Spain,"24,832",14.3,8%,62 : 38
+601–800,University of Sfax,Tunisia,"32,390",12.5,3%,67 : 33
+601–800,University of St Andrews,United Kingdom,"10,750",12.8,47%,59 : 41
+601–800,University of Tabuk,Saudi Arabia,"19,888",12.3,3%,32 : 68
+601–800,University of Texas at El Paso,United States,"16,926",21.7,6%,56 : 44
+601–800,University of the Aegean,Greece,"20,958",54.6,2%,57 : 43
+601–800,UWE Bristol (University of the West of England),United Kingdom,"29,680",16.8,29%,52 : 48
+601–800,University of the Witwatersrand,South Africa,"27,858",24.9,6%,59 : 41
+601–800,University of Tunis El Manar,Tunisia,"19,015",8.7,8%,75 : 25
+601–800,University of Udine,Italy,"12,130",17.2,5%,55 : 45
+601–800,University of Valencia,Spain,"50,437",13.9,14%,59 : 41
+601–800,University of West Bohemia,Czechia,"11,398",13.6,5%,54 : 46
+601–800,University of Western Macedonia,Greece,"13,097",30.6,2%,49 : 51
+601–800,Ural Federal University,Russian Federation,"29,811",15.6,16%,52 : 48
+601–800,"Vels Institute of Science, Technology and Advanced Studies (VISTAS)",India,"15,625",20.3,0%,32 : 68
+601–800,Verona University,Italy,"21,889",25.8,4%,64 : 36
+601–800,VSB - Technical University of Ostrava,Czechia,"11,490",15.3,13%,34 : 66
+601–800,Warsaw University of Technology,Poland,"22,996",10.9,8%,32 : 68
+601–800,Yangzhou University,China,"30,134",12.4,10%,66 : 34
+601–800,Yarmouk University,Jordan,"23,499",21.5,13%,57 : 43
+601–800,Yazd University,Iran,"13,649",29.9,3%,57 : 43
+601–800,Yuan Ze University,Taiwan,"6,450",22.2,10%,43 : 57
+601–800,Zhejiang Gongshang University,China,"18,820",12.6,5%,58 : 42
+601–800,Zhejiang University of Technology,China,"37,637",15.0,7%,n/a
+801–1000,Abdelmalek Essaâdi University,Morocco,"117,968",85.8,1%,53 : 47
+801–1000,"Adam Mickiewicz University, Poznań",Poland,"31,009",23.8,7%,68 : 32
+801–1000,Al-Nahrain University,Iraq,"7,404",7.0,0%,58 : 42
+801–1000,American International University – Bangladesh,Bangladesh,"10,909",20.7,1%,24 : 76
+801–1000,"Arab Academy for Science, Technology and Maritime Transport",Egypt,"35,916",12.6,9%,32 : 68
+801–1000,Babeş-Bolyai University,Romania,"42,557",20.4,4%,64 : 36
+801–1000,Badji Mokhtar University – Annaba,Algeria,"33,857",10.0,2%,71 : 29
+801–1000,Baylor University,United States,"20,958",18.3,6%,61 : 39
+801–1000,Beijing University of Chemical Technology,China,"25,350",19.9,1%,37 : 63
+801–1000,BINUS University,Indonesia,"15,211",14.1,4%,41 : 59
+801–1000,BRAC University,Bangladesh,"16,494",18.3,0%,43 : 57
+801–1000,Changzhou University,China,"24,055",14.8,1%,n/a
+801–1000,Chaoyang University of Technology,Taiwan,"13,287",34.8,6%,59 : 41
+801–1000,Charles Sturt University,Australia,"18,510",20.3,12%,67 : 33
+801–1000,Chiang Mai University,Thailand,"34,379",13.5,4%,61 : 39
+801–1000,Chonnam National University,South Korea,"18,258",13.5,7%,50 : 50
+801–1000,Christ University,India,"30,965",18.8,1%,51 : 49
+801–1000,Chung Yuan Christian University,Taiwan,"15,224",31.4,7%,47 : 53
+801–1000,Cochin University of Science and Technology,India,"4,485",14.8,2%,57 : 43
+801–1000,Comenius University Bratislava,Slovakia,"21,667",10.1,16%,65 : 35
+801–1000,Durban University of Technology,South Africa,"26,594",33.4,1%,56 : 44
+801–1000,Ege University,Turkey,"31,178",20.0,4%,54 : 46
+801–1000,Eötvös Loránd University,Hungary,"31,750",18.4,11%,61 : 39
+801–1000,Escuela Superior Politécnica del Litoral,Ecuador,"10,152",10.5,1%,39 : 61
+801–1000,Federal University of Espírito Santo,Brazil,"27,464",15.0,1%,54 : 46
+801–1000,Universidade Federal de Pernambuco,Brazil,"35,655",12.9,0%,51 : 49
+801–1000,Federal University of Rio Grande do Norte (UFRN),Brazil,"46,490",17.9,0%,47 : 53
+801–1000,Federal University of São Carlos,Brazil,"20,250",14.2,1%,50 : 50
+801–1000,Federico Santa María Technical University,Chile,"23,753",31.0,2%,25 : 75
+801–1000,Feng Chia University,Taiwan,"20,054",23.3,6%,41 : 59
+801–1000,Ferhat Abbas Sétif University 1,Algeria,"39,465",25.9,0%,62 : 38
+801–1000,Financial University under the Government of the Russian Federation,Russian Federation,"16,800",13.3,10%,55 : 45
+801–1000,Fluminense Federal University,Brazil,"71,127",20.5,1%,48 : 52
+801–1000,Gazi University,Turkey,"43,838",18.4,3%,49 : 51
+801–1000,Gdańsk University of Technology,Poland,"14,179",19.8,7%,39 : 61
+801–1000,Gebze Technical University,Turkey,"10,469",34.0,2%,38 : 62
+801–1000,Georgia Southern University,United States,"21,448",18.3,3%,59 : 41
+801–1000,GLA University,India,"12,764",14.7,0%,26 : 74
+801–1000,Gyeongsang National University,South Korea,"16,273",12.2,2%,44 : 56
+801–1000,Helwan University,Egypt,"153,363",22.4,2%,56 : 44
+801–1000,Hindustan Institute of Technology and Science,India,"7,321",11.7,2%,43 : 57
+801–1000,Hongik University,South Korea,"16,028",17.5,10%,57 : 43
+801–1000,Ibn Tofaïl University,Morocco,"71,561",90.8,2%,61 : 39
+801–1000,Incheon National University,South Korea,"17,305",21.1,3%,38 : 62
+801–1000,Indian Institute of Technology Guwahati,India,"8,587",17.9,1%,24 : 76
+801–1000,Instituto Politécnico de Viana do Castelo,Portugal,"5,885",19.7,9%,49 : 51
+801–1000,Institut Teknologi Sepuluh Nopember,Indonesia,"19,974",6.2,7%,42 : 58
+801–1000,International Hellenic University,Greece,"58,482",33.0,3%,44 : 56
+801–1000,ISCTE-University Institute of Lisbon,Portugal,"10,680",25.9,17%,52 : 48
+801–1000,Istanbul University-Cerrahpaşa,Turkey,"22,381",17.7,5%,42 : 58
+801–1000,Jagiellonian University,Poland,"32,989",9.2,12%,66 : 34
+801–1000,Jaume I University,Spain,"12,050",14.8,10%,58 : 42
+801–1000,Kanazawa University,Japan,"10,229",9.8,6%,37 : 63
+801–1000,Kangwon National University,South Korea,"20,159",19.9,3%,41 : 59
+801–1000,Karadeniz Technical University,Turkey,"24,284",11.2,7%,49 : 51
+801–1000,Karpagam Academy of Higher Education,India,"9,800",13.7,0%,30 : 70
+801–1000,Kaunas University of Technology,Lithuania,"7,618",13.2,9%,35 : 65
+801–1000,Kharkiv Aviation Institute,Ukraine,"5,217",11.7,6%,34 : 66
+801–1000,King Mongkut’s Institute of Technology Ladkrabang,Thailand,"25,883",22.3,2%,51 : 49
+801–1000,Kookmin University,South Korea,"16,080",18.1,12%,50 : 50
+801–1000,Kuwait University,Kuwait,"27,141",15.8,13%,70 : 30
+801–1000,Lobachevsky State University of Nizhni Novgorod,Russian Federation,"20,096",10.1,13%,52 : 48
+801–1000,Lodz University of Technology,Poland,"10,887",12.2,5%,39 : 61
+801–1000,Lviv Polytechnic National University,Ukraine,"29,733",15.5,1%,53 : 47
+801–1000,Manav Rachna International Institute of Research and Studies,India,"4,686",11.0,1%,48 : 52
+801–1000,Manipal Academy of Higher Education,India,"23,947",8.6,12%,47 : 53
+801–1000,Manipal University Jaipur,India,"9,680",14.2,5%,45 : 55
+801–1000,Mapúa University,Philippines,"8,601",23.6,1%,33 : 67
+801–1000,Marmara University,Turkey,"66,083",30.3,5%,51 : 49
+801–1000,"Mehran University of Engineering and Technology, Jamshoro, Pakistan",Pakistan,"9,276",20.8,0%,24 : 76
+801–1000,Middle Technical University,Iraq,"42,043",34.0,0%,53 : 47
+801–1000,Mohammed V University of Rabat,Morocco,"87,176",38.9,3%,55 : 45
+801–1000,Moscow Power Engineering Institute,Russian Federation,"14,402",20.0,14%,34 : 66
+801–1000,Nagoya Institute of Technology,Japan,"5,736",16.2,5%,17 : 83
+801–1000,Najran University,Saudi Arabia,"19,930",16.7,3%,64 : 36
+801–1000,Nanjing Forestry University,China,"33,835",16.9,1%,n/a
+801–1000,Nanjing Normal University,China,"33,441",13.8,2%,70 : 30
+801–1000,National Autonomous University of Mexico,Mexico,"175,968",16.5,5%,52 : 48
+801–1000,"State University ""Kyiv Aviation Institute""",Ukraine,"13,142",9.7,5%,40 : 60
+801–1000,National Chengchi University,Taiwan,"12,671",15.4,14%,58 : 42
+801–1000,National Chung Cheng University,Taiwan,"9,145",16.3,4%,45 : 55
+801–1000,National Chung Hsing University,Taiwan,"15,403",13.1,7%,42 : 58
+801–1000,National Institute of Technology Delhi,India,"1,140",13.4,3%,49 : 51
+801–1000,National University of Distance Education (UNED),Spain,"71,981",57.6,4%,56 : 44
+801–1000,Nile University,Egypt,"3,468",14.0,1%,35 : 65
+801–1000,Northeast Agricultural University,China,"29,363",21.6,1%,55 : 45
+801–1000,Northeast Normal University,China,"30,812",19.0,3%,71 : 29
+801–1000,North-West University,South Africa,"40,397",27.3,2%,62 : 38
+801–1000,Northwest University (China),China,"29,021",14.6,1%,55 : 45
+801–1000,Osaka Metropolitan University,Japan,"15,750",11.5,4%,37 : 63
+801–1000,Palacký University Olomouc,Czechia,"19,315",14.9,13%,68 : 32
+801–1000,Plekhanov Russian University of Economics,Russian Federation,"13,642",8.6,13%,54 : 46
+801–1000,Pondicherry University,India,"9,199",21.3,0%,45 : 55
+801–1000,Pontifical Catholic University of Rio Grande do Sul (PUCRS),Brazil,"11,915",20.1,1%,52 : 48
+801–1000,Pontifical Catholic University of Valparaíso,Chile,"18,179",24.2,1%,43 : 57
+801–1000,Pontifícia Universidade Católica do Paraná,Brazil,"11,675",13.8,1%,55 : 45
+801–1000,Portland State University,United States,"17,841",20.2,6%,58 : 42
+801–1000,Poznan University of Technology,Poland,"14,071",12.8,8%,32 : 68
+801–1000,Prince of Songkla University,Thailand,"33,413",12.9,2%,69 : 31
+801–1000,PSG College of Technology,India,"7,893",13.6,0%,37 : 63
+801–1000,Pukyong National University,South Korea,"16,635",14.5,8%,47 : 53
+801–1000,Rajshahi University of Engineering and Technology,Bangladesh,"6,148",16.4,0%,28 : 72
+801–1000,Reykjavík University,Iceland,"2,979",23.9,6%,44 : 56
+801–1000,Riga Technical University,Latvia,"10,907",31.3,26%,35 : 65
+801–1000,RUDN University,Russian Federation,"26,040",18.2,33%,58 : 42
+801–1000,Sathyabama Institute of Science and Technology,India,"16,555",11.9,4%,50 : 50
+801–1000,Saudi Electronic University,Saudi Arabia,"35,869",41.3,5%,44 : 56
+801–1000,Shibaura Institute of Technology,Japan,"9,128",30.8,5%,18 : 82
+801–1000,Sidi Mohamed Ben Abdellah University,Morocco,"99,073",57.4,1%,50 : 50
+801–1000,Slovak University of Technology in Bratislava,Slovakia,"10,976",14.7,16%,31 : 69
+801–1000,Soongsil University,South Korea,"16,685",22.3,11%,47 : 53
+801–1000,South China Normal University,China,"34,597",18.9,4%,n/a
+801–1000,St Petersburg Electrotechnical University (LETI),Russian Federation,"8,890",13.9,20%,31 : 69
+801–1000,Technical University of Cartagena,Spain,"4,542",10.1,9%,28 : 72
+801–1000,Technical University of Cluj-Napoca,Romania,"18,044",19.9,3%,37 : 63
+801–1000,Technological University Dublin,Ireland,"20,396",18.6,18%,43 : 57
+801–1000,Telkom University,Indonesia,"18,936",16.1,8%,37 : 63
+801–1000,Texas State University,United States,"30,792",19.9,1%,61 : 39
+801–1000,The University of Electro-Communications,Japan,"4,654",14.7,5%,13 : 87
+801–1000,Tokyo Metropolitan University,Japan,"8,823",10.4,6%,39 : 61
+801–1000,Tokyo University of Science,Japan,"17,783",23.7,4%,25 : 75
+801–1000,Tomsk State University,Russian Federation,"7,996",11.6,37%,n/a
+801–1000,Toyohashi University of Technology (TUT),Japan,"1,986",10.5,14%,13 : 87
+801–1000,Tulane University,United States,"13,029",7.8,11%,61 : 39
+801–1000,Universidad Andrés Bello (UNAB),Chile,"47,619",18.0,3%,54 : 46
+801–1000,Universidade Federal de Santa Catarina,Brazil,"36,540",15.1,2%,49 : 51
+801–1000,Universidade Federal de São Paulo (UNIFESP),Brazil,"20,000",11.8,1%,60 : 40
+801–1000,Universidade Federal do Ceará (UFC),Brazil,"40,383",19.5,1%,45 : 55
+801–1000,Universidade Federal do Paraná (UFPR),Brazil,"32,845",11.9,7%,56 : 44
+801–1000,Universitas Airlangga,Indonesia,"30,217",7.3,4%,65 : 35
+801–1000,Universitas Padjadjaran,Indonesia,"32,629",9.0,3%,62 : 38
+801–1000,Université Chouaïb Doukkali,Morocco,"27,031",38.0,2%,58 : 42
+801–1000,Université de Gabès,Tunisia,"14,514",14.3,1%,74 : 26
+801–1000,Université de Poitiers,France,"29,514",28.9,12%,57 : 43
+801–1000,Université d’Orléans,France,"18,293",19.7,14%,50 : 50
+801–1000,Université Hassan 1er,Morocco,"35,228",58.2,2%,52 : 48
+801–1000,Université Sultan Moulay Slimane,Morocco,"41,727",58.3,1%,54 : 46
+801–1000,Universiti Malaysia Sarawak (UNIMAS),Malaysia,"12,296",15.8,13%,70 : 30
+801–1000,Universiti Malaysia Terengganu (UMT),Malaysia,"10,370",17.0,7%,69 : 31
+801–1000,Universiti Teknikal Malaysia Melaka,Malaysia,"11,480",15.9,5%,38 : 62
+801–1000,Universiti Tunku Abdul Rahman (UTAR),Malaysia,"16,339",12.8,10%,56 : 44
+801–1000,University of A Coruña,Spain,"15,383",12.5,6%,52 : 48
+801–1000,University of Alicante,Spain,"22,503",14.0,8%,59 : 41
+801–1000,University of Almería,Spain,"13,015",17.1,12%,56 : 44
+801–1000,University of Antioquia,Colombia,"37,067",18.1,0%,51 : 49
+801–1000,University of Brasília,Brazil,"41,767",13.6,1%,52 : 48
+801–1000,University of Bucharest,Romania,"32,123",32.6,2%,70 : 30
+801–1000,University of Cadiz,Spain,"18,592",17.4,11%,61 : 39
+801–1000,University of Carthage,Tunisia,"31,385",9.9,1%,63 : 37
+801–1000,University of Castilla-La Mancha,Spain,"25,094",13.9,9%,57 : 43
+801–1000,University of Clermont Auvergne,France,"36,541",21.0,15%,58 : 42
+801–1000,University of Debrecen,Hungary,"20,294",12.0,25%,55 : 45
+801–1000,University of Diyala,Iraq,"25,658",13.5,0%,57 : 43
+801–1000,University of Franche-Comté,France,"24,095",31.0,13%,59 : 41
+801–1000,University of Gdańsk,Poland,"18,016",11.6,3%,67 : 33
+801–1000,University of Girona,Spain,"14,186",20.6,14%,58 : 42
+801–1000,University of Haifa,Israel,"16,631",17.8,3%,66 : 34
+801–1000,University of Insubria,Italy,"10,232",25.6,5%,55 : 45
+801–1000,University of Jeddah,Saudi Arabia,"29,558",15.3,2%,66 : 34
+801–1000,University of Kiel,Germany,"29,036",23.6,9%,54 : 46
+801–1000,University of la Costa,Colombia,"12,187",18.0,1%,28 : 72
+801–1000,University of Lahore,Pakistan,"23,972",13.0,3%,39 : 61
+801–1000,University of La Laguna,Spain,"18,973",13.1,5%,58 : 42
+801–1000,University of La Rochelle,France,"8,150",21.3,13%,55 : 45
+801–1000,University of Las Palmas de Gran Canaria,Spain,"15,862",17.1,8%,58 : 42
+801–1000,University of Latvia,Latvia,"12,055",32.8,8%,68 : 32
+801–1000,University of León,Spain,"10,548",12.8,5%,54 : 46
+801–1000,University of Macedonia,Greece,"11,970",57.8,4%,50 : 50
+801–1000,University of Malta,Malta,"9,966",12.2,17%,61 : 39
+801–1000,University of Manouba,Tunisia,"18,156",15.4,2%,62 : 38
+801–1000,University of Maribor,Slovenia,"13,011",13.8,12%,54 : 46
+801–1000,University Cadi Ayyad of Marrakech,Morocco,"116,354",44.2,1%,51 : 49
+801–1000,University of Monastir,Tunisia,"21,342",9.4,1%,69 : 31
+801–1000,University of Moratuwa,Sri Lanka,"12,282",30.9,0%,63 : 37
+801–1000,University of Nebraska Omaha,United States,"13,744",17.2,5%,57 : 43
+801–1000,"University of Nevada, Las Vegas",United States,"27,489",23.9,3%,58 : 42
+801–1000,University of Novi Sad,Serbia,"49,225",14.5,6%,58 : 42
+801–1000,University of Oviedo,Spain,"18,346",8.2,7%,55 : 45
+801–1000,University of Rajshahi,Bangladesh,"22,189",21.2,0%,35 : 65
+801–1000,University of Rijeka,Croatia,"12,999",15.5,3%,59 : 41
+801–1000,University of Sousse,Tunisia,"28,909",13.3,2%,68 : 32
+801–1000,University of Szeged,Hungary,"19,881",12.3,20%,56 : 44
+801–1000,University of Talca,Chile,"11,786",14.8,1%,52 : 48
+801–1000,"University of Technology, Iraq",Iraq,"11,626",7.7,0%,47 : 53
+801–1000,"University of the Andes, Colombia",Colombia,"16,133",14.0,2%,45 : 55
+801–1000,University of Thessaly,Greece,"26,405",28.4,3%,51 : 49
+801–1000,University of Tunis,Tunisia,"17,667",11.3,2%,71 : 29
+801–1000,University of Valladolid,Spain,"21,960",10.5,8%,56 : 44
+801–1000,University of Vigo,Spain,"17,545",15.0,6%,51 : 49
+801–1000,University of West Attica,Greece,"58,700",42.0,0%,43 : 57
+801–1000,University of Wrocław,Poland,"17,796",15.9,8%,64 : 36
+801–1000,University of Zagreb,Croatia,"59,109",15.2,4%,60 : 40
+801–1000,University of Žilina,Slovakia,"7,056",14.2,7%,34 : 66
+801–1000,University Rey Juan Carlos,Spain,"40,905",18.3,6%,59 : 41
+801–1000,Vilnius Gediminas Technical University (Vilnius Tech),Lithuania,"8,264",12.5,14%,31 : 69
+801–1000,Wrocław University of Science and Technology,Poland,"21,269",18.9,7%,33 : 67
+801–1000,Xiangtan University,China,"36,578",20.5,0%,49 : 51
+801–1000,Yanshan University,China,"39,528",13.0,1%,37 : 63
+801–1000,Yokohama National University,Japan,"9,568",13.7,8%,28 : 72
+801–1000,Zhejiang Sci-Tech University,China,"28,628",15.8,2%,47 : 53
+801–1000,Zhejiang University of Finance and Economics,China,"19,422",21.2,2%,62 : 38
+1001+,Acharya Nagarjuna University,India,"6,220",7.6,7%,32 : 68
+1001+,Alexandru Ioan Cuza University,Romania,"24,049",21.2,8%,55 : 45
+1001+,Al-Farabi Kazakh National University,Kazakhstan,"19,546",4.8,28%,53 : 47
+1001+,Ariel University,Israel,"13,670",20.2,1%,51 : 49
+1001+,Autonomous University of Baja California,Mexico,"68,621",21.4,3%,55 : 45
+1001+,Belarusian State University,Belarus,"23,445",7.9,22%,58 : 42
+1001+,Benemérita Universidad Autónoma de Puebla,Mexico,"82,994",23.3,1%,52 : 48
+1001+,Bialystok University of Technology,Poland,"6,374",11.0,6%,35 : 65
+1001+,Chuo University,Japan,"26,078",35.6,4%,38 : 62
+1001+,Communication University of China,China,"18,222",16.0,3%,69 : 31
+1001+,Cracow University of Technology,Poland,"12,501",11.0,5%,38 : 62
+1001+,Dankook University,South Korea,"26,348",24.3,5%,54 : 46
+1001+,De La Salle University,Philippines,"13,059",11.5,2%,52 : 48
+1001+,Dokuz Eylül University,Turkey,"58,053",27.9,7%,47 : 53
+1001+,Don State Technical University,Russian Federation,"26,066",13.0,12%,n/a
+1001+,Doshisha University,Japan,"26,942",18.3,4%,42 : 58
+1001+,Federal Rural University of Pernambuco,Brazil,"15,815",13.9,0%,48 : 52
+1001+,Federal University of Goiás,Brazil,"21,440",10.0,0%,49 : 51
+1001+,Federal University of Pará,Brazil,"48,359",17.8,0%,53 : 47
+1001+,Federal University of Santa Maria,Brazil,"29,075",12.9,0%,54 : 46
+1001+,Federal University of Uberlândia,Brazil,"24,277",13.3,1%,52 : 48
+1001+,Fujian Agriculture and Forestry University,China,"32,192",18.1,1%,52 : 48
+1001+,GITAM University,India,"25,876",12.5,1%,38 : 62
+1001+,Ionian University,Greece,"7,513",23.8,3%,55 : 45
+1001+,Jianghan University,China,"21,498",14.9,1%,56 : 44
+1001+,Jiangsu Normal University,China,"27,758",14.6,1%,n/a
+1001+,Kansai University,Japan,"29,506",11.0,4%,41 : 59
+1001+,Kasetsart University,Thailand,"69,973",18.1,1%,62 : 38
+1001+,Kharkiv National University of Radio Electronics,Ukraine,"7,684",10.9,6%,27 : 73
+1001+,Kocaeli University,Turkey,"62,768",41.6,2%,43 : 57
+1001+,Kyoto Institute of Technology,Japan,"3,954",14.2,5%,29 : 71
+1001+,L.N. Gumilyov Eurasian National University,Kazakhstan,"19,964",13.8,4%,48 : 52
+1001+,Lublin University of Technology,Poland,"7,124",12.1,14%,28 : 72
+1001+,Meiji University,Japan,"33,118",34.2,5%,34 : 66
+1001+,Metropolitan Autonomous University,Mexico,"61,908",43.8,1%,50 : 50
+1001+,MIREA - Russian Technological University,Russian Federation,"28,286",22.9,5%,25 : 75
+1001+,Moscow Aviation Institute,Russian Federation,"15,552",12.3,12%,26 : 74
+1001+,Mustansiriyah University,Iraq,"32,064",8.3,1%,56 : 44
+1001+,Nanjing Tech University,China,"38,374",12.8,3%,n/a
+1001+,National Chin-Yi University of Technology,Taiwan,"7,574",22.7,8%,31 : 69
+1001+,National Formosa University,Taiwan,"11,686",20.3,1%,22 : 78
+1001+,National Kaohsiung University of Science and Technology,Taiwan,"28,443",33.9,2%,36 : 64
+1001+,National Research University of Electronic Technology (MIET),Russian Federation,"5,550",10.4,6%,26 : 74
+1001+,National Taiwan Ocean University,Taiwan,"8,322",16.0,8%,32 : 68
+1001+,National Technical University Kharkiv Polytechnic Institute,Ukraine,"10,902",7.9,14%,31 : 69
+1001+,National Technical University of Ukraine – Igor Sikorsky Kyiv Polytechnic Institute,Ukraine,"22,885",10.1,3%,29 : 71
+1001+,National University of Colombia,Colombia,"55,039",21.0,1%,41 : 59
+1001+,National University of La Plata,Argentina,"48,485",13.0,22%,61 : 39
+1001+,National University of Life and Environmental Sciences of Ukraine,Ukraine,"20,345",15.3,0%,39 : 61
+1001+,National University of Science and Technology (MISiS),Russian Federation,"7,259",12.6,19%,41 : 59
+1001+,North-Caucasus Federal University,Russian Federation,"18,201",7.6,9%,48 : 52
+1001+,Novosibirsk State Technical University,Russian Federation,"13,080",14.6,19%,39 : 61
+1001+,Novosibirsk State University,Russian Federation,"7,196",6.7,21%,n/a
+1001+,Polytechnic University of Timişoara,Romania,"11,774",17.0,3%,38 : 62
+1001+,Pontifical Catholic University of Peru,Peru,"27,160",6.6,1%,47 : 53
+1001+,Pontificia Universidad Javeriana,Colombia,"28,409",12.7,1%,55 : 45
+1001+,R V College of Engineering,India,"6,014",16.9,0%,27 : 73
+1001+,Rzeszów University of Technology,Poland,"10,335",12.9,1%,39 : 61
+1001+,Saints Cyril and Methodius University in Skopje,North Macedonia,"26,734",13.6,1%,63 : 37
+1001+,Samara National Research University (Samara University),Russian Federation,"9,266",10.4,11%,47 : 53
+1001+,Shanghai Normal University,China,"29,846",14.8,2%,69 : 31
+1001+,Shizuoka University,Japan,"9,901",14.9,4%,30 : 70
+1001+,Sichuan University of Science and Engineering,China,"45,377",22.3,1%,48 : 52
+1001+,Sofia University,Bulgaria,"21,855",7.5,7%,66 : 34
+1001+,Southern Federal University,Russian Federation,"20,855",12.9,13%,56 : 44
+1001+,Southwest Petroleum University,China,"40,801",19.2,1%,34 : 66
+1001+,Sri Lanka Institute of Information Technology,Sri Lanka,"15,450",47.1,0%,42 : 58
+1001+,State University of Malang,Indonesia,"35,702",30.3,4%,54 : 46
+1001+,Tamkang University,Taiwan,"22,492",18.1,8%,47 : 53
+1001+,Taras Shevchenko National University of Kyiv,Ukraine,"26,028",10.4,6%,58 : 42
+1001+,Tashkent University of Information Technologies,Uzbekistan,"18,731",19.3,0%,21 : 79
+1001+,Technical University of Sofia,Bulgaria,"11,234",10.4,7%,25 : 75
+1001+,Thammasat University,Thailand,"29,481",10.9,2%,64 : 36
+1001+,Tokai University,Japan,"28,585",16.3,5%,28 : 72
+1001+,Transilvania University of Brașov,Romania,"20,058",23.8,1%,52 : 48
+1001+,Universidad de las Fuerzas Armadas – ESPE,Ecuador,"22,958",16.6,0%,50 : 50
+1001+,Universidade do Estado do Rio de Janeiro (UERJ),Brazil,"23,868",9.5,0%,55 : 45
+1001+,Universidade Federal da Bahia,Brazil,"51,617",20.1,0%,45 : 55
+1001+,Universidade Federal de Juiz de Fora,Brazil,"23,831",14.3,0%,49 : 51
+1001+,Universidade Federal do ABC (UFABC),Brazil,"21,548",28.2,1%,36 : 64
+1001+,Universidade Lusófona,Portugal,"11,773",9.7,17%,55 : 45
+1001+,Universidade Tecnológica Federal do Paraná (UTFPR),Brazil,"33,984",13.3,1%,31 : 69
+1001+,Universidad Peruana de Ciencias Aplicadas (UPC),Peru,"79,091",28.0,1%,48 : 52
+1001+,Universidad Politécnica Salesiana,Ecuador,"22,123",23.4,2%,40 : 60
+1001+,Universidad Técnica Particular de Loja,Ecuador,"57,731",29.2,2%,56 : 44
+1001+,Universitas Sebelas Maret,Indonesia,"27,868",16.9,2%,64 : 36
+1001+,Universitas Sumatera Utara,Indonesia,"39,487",19.2,2%,56 : 44
+1001+,Université Mohammed Premier,Morocco,"84,547",82.5,1%,51 : 49
+1001+,Universiti Kuala Lumpur,Malaysia,"14,972",11.4,6%,43 : 57
+1001+,Universiti Teknologi MARA,Malaysia,"60,827",16.0,2%,66 : 34
+1001+,University of Abou Bekr Belkaïd Tlemcen,Algeria,"39,934",16.8,1%,59 : 41
+1001+,University of Babylon,Iraq,"29,288",13.8,0%,55 : 45
+1001+,University of Baghdad,Iraq,"77,080",12.8,0%,59 : 41
+1001+,University of Basrah,Iraq,"50,118",15.7,0%,64 : 36
+1001+,University of Biskra,Algeria,"29,730",18.4,0%,63 : 37
+1001+,University of Brawijaya,Indonesia,"54,657",14.1,1%,60 : 40
+1001+,University of Concepción,Chile,"30,363",17.9,2%,52 : 48
+1001+,University of Craiova,Romania,"16,537",20.8,4%,52 : 48
+1001+,University of Guadalajara,Mexico,"142,714",20.0,0%,55 : 45
+1001+,University of Guanajuato,Mexico,"30,903",20.4,1%,55 : 45
+1001+,University of Ioannina,Greece,"34,419",42.2,3%,45 : 55
+1001+,University of Lodz,Poland,"21,408",14.0,10%,62 : 38
+1001+,University of Mosul,Iraq,"59,475",17.9,0%,51 : 49
+1001+,University of Ostrava,Czechia,"8,938",16.0,11%,70 : 30
+1001+,"University of Santiago, Chile (USACH)",Chile,"25,210",19.8,3%,45 : 55
+1001+,University of Sarajevo,Bosnia and Herzegovina,"22,458",13.5,4%,65 : 35
+1001+,University of Savoie Mont Blanc,France,"13,962",26.9,10%,50 : 50
+1001+,University of Sciences and Technology Houari Boumediene,Algeria,"39,888",20.0,0%,47 : 53
+1001+,University of Silesia in Katowice,Poland,"18,354",11.3,5%,66 : 34
+1001+,University of South Africa,South Africa,"233,279",73.7,1%,74 : 26
+1001+,University of Split,Croatia,"19,113",15.6,3%,58 : 42
+1001+,University of the Balearic Islands,Spain,"12,240",9.4,8%,60 : 40
+1001+,University of the Philippines,Philippines,"54,781",11.1,0%,60 : 40
+1001+,University of Tours,France,"29,924",21.2,12%,61 : 39
+1001+,University of Warmia and Mazury in Olsztyn,Poland,"16,211",18.0,3%,61 : 39
+1001+,"Vietnam National University, Hanoi",Vietnam,"64,921",18.9,0%,61 : 39
+1001+,Vietnam National University (Ho Chi Minh City),Vietnam,"93,371",28.2,1%,47 : 53
+1001+,Vilnius University,Lithuania,"21,338",8.9,11%,63 : 37
+1001+,V.N. Karazin Kharkiv National University,Ukraine,"17,491",8.3,28%,53 : 47
+1001+,Warsaw University of Life Sciences – SGGW,Poland,"16,713",13.7,8%,59 : 41
+1001+,Wuhan Textile University,China,"23,955",15.6,1%,50 : 50
+1001+,Yamaguchi University,Japan,"10,310",10.9,5%,37 : 63
